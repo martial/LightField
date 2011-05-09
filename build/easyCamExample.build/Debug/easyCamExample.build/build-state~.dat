@@ -1,0 +1,1552 @@
+TeasyCamExample
+v7
+r0
+t325506509.203442
+cCheck dependencies
+cProcessInfoPlistFile /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/bin//easyCamExampleDebug.app/Contents/Info.plist openFrameworks-Info.plist
+cProcessPCH++ /var/folders/tX/tXvC9lCoFsGsNVKB4K3ixE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-bxjmnftxvqnrlmbhxkkztiudyyyk/Carbon.h.gch /System/Library/Frameworks/Carbon.framework/Headers/Carbon.h normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/easyCamExample.build/Debug/easyCamExample.build/Objects-normal/i386/main.o /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/src/main.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/easyCamExample.build/Debug/easyCamExample.build/Objects-normal/i386/testApp.o /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/src/testApp.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cLd /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/bin//easyCamExampleDebug.app/Contents/MacOS/easyCamExampleDebug normal i386
+cPhaseScriptExecution "Run Script" /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/build/easyCamExample.build/Debug/easyCamExample.build/Script-E4B6FFFD0C3F9AB9008CF71C.sh
+cPBXCp bin/easyCamExampleDebug.app/Contents/Frameworks/GLUT.framework ../../../libs/glut/lib/osx/GLUT.framework
+cPBXCp bin/easyCamExampleDebug.app/Contents/Resources/openFrameworks-Info.plist openFrameworks-Info.plist
+cTouch /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/bin//easyCamExampleDebug.app
+
+N/Developer-old/usr/include/gcc/darwin/4.2/stdint.h
+c000000004AB3BC88000000000000190C
+t1253293192
+s6412
+
+N/Developer-old/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/limits.h
+c000000004AB3AF240000000000000C7E
+t1253289764
+s3198
+i"syslimits.h"
+
+N/Developer-old/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/stddef.h
+c000000004AB3AF230000000000003197
+t1253289763
+s12695
+i<machine/ansi.h>
+i<sys/_types.h>
+
+N/Developer-old/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/syslimits.h
+c000000004AB3AC2D0000000000000155
+t1253289005
+s341
+
+N/System/Library/Frameworks/AGL.framework/AGL
+c000000004BD2589F0000000000043820
+t1272076447
+s276512
+
+N/System/Library/Frameworks/AppKit.framework/AppKit
+c000000004C623FBF0000000002B48610
+t1281507263
+s45385232
+
+N/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
+c000000004A12050E0000000000022140
+t1242694926
+s139584
+
+N/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.h
+c000000004AC6B3050000000000000477
+t1254535941
+s1143
+
+N/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004D77144E00000000005198C0
+t1299649614
+s5347520
+
+N/System/Library/Frameworks/Carbon.framework/Carbon
+c000000004C0FDD7E000000000000A5F0
+t1276108158
+s42480
+
+N/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h
+c000000004B4834EA00000000000005FF
+t1263023338
+s1535
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/System/Library/Frameworks/CoreAudio.framework/CoreAudio
+c000000004CD4F57800000000002181A0
+t1289024888
+s2195872
+
+N/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c000000004C971DAF0000000000781330
+t1284971951
+s7869232
+
+N/System/Library/Frameworks/CoreServices.framework/CoreServices
+c000000004C23F49F0000000000021710
+t1277424799
+s136976
+
+N/System/Library/Frameworks/CoreServices.framework/Headers/CoreServices.h
+c000000004B90FA5D0000000000000401
+t1267792477
+s1025
+
+N/System/Library/Frameworks/IOKit.framework/IOKit
+c000000004C8AD97D000000000017B260
+t1284168061
+s1552992
+
+N/System/Library/Frameworks/OpenGL.framework/Headers/gl.h
+c000000004B8E4E9E0000000000025B59
+t1267617438
+s154457
+
+N/System/Library/Frameworks/OpenGL.framework/Headers/glu.h
+c000000004B8E4E9E0000000000003F84
+t1267617438
+s16260
+
+N/System/Library/Frameworks/OpenGL.framework/OpenGL
+c000000004D7713DA0000000000043330
+t1299649498
+s275248
+
+N/System/Library/Frameworks/QuickTime.framework/Headers/QuickTime.h
+c000000004CC420410000000000000659
+t1287921729
+s1625
+
+N/System/Library/Frameworks/QuickTime.framework/QuickTime
+c000000004D40EADD0000000000783960
+t1296100061
+s7879008
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/FreeImage/lib/osx/freeimage.a
+c000000004DAE266A0000000000535E34
+t1303258730
+s5463604
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/fmodex/include/fmod.h
+c000000004DAE266A0000000000028E68
+t1303258730
+s167528
+i"fmod_codec.h"
+i"fmod_dsp.h"
+i"fmod_memoryinfo.h"
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/fmodex/include/fmod_errors.h
+c000000004DAE266A0000000000003408
+t1303258730
+s13320
+i"fmod.h"
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/fmodex/lib/osx/libfmodex.dylib
+c000000004DAE266A00000000001DD8CC
+t1303258730
+s1956044
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/freetype/lib/osx/freetype.a
+c000000004DAE266A00000000000AB9E8
+t1303258730
+s702952
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/glew/include/GL/glew.h
+c000000004DAE266A00000000000C1916
+t1303258730
+s792854
+i<stddef.h>
+i<inttypes.h>
+i<stdint.h>
+i<inttypes.h>
+i<OpenGL/glu.h>
+i<GL/glu.h>
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/glew/lib/osx/glew.a
+c000000004DAE266A000000000009ECC8
+t1303258730
+s650440
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/glut/lib/osx/GLUT.framework
+c000000004DAEF76400000000000000CC
+t1303312228
+s204
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/glut/lib/osx/GLUT.framework/GLUT
+c000000004DAE266A0000000000092A98
+t1303258730
+s600728
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/poco/lib/osx/PocoFoundation.a
+c000000004DAE266A000000000027E698
+t1303258730
+s2614936
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/poco/lib/osx/PocoNet.a
+c000000004DAE266A00000000001854B0
+t1303258730
+s1594544
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/poco/lib/osx/PocoUtil.a
+c000000004DAE266A0000000000090708
+t1303258730
+s591624
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/poco/lib/osx/PocoXML.a
+c000000004DAE266A0000000000107FD0
+t1303258730
+s1081296
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/rtAudio/lib/osx/rtAudio.a
+c000000004DAE266A00000000000BC8E8
+t1303258730
+s772328
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/bin//easyCamExampleDebug.app
+t1303813709
+s102
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/bin//easyCamExampleDebug.app/Contents/Info.plist
+t1303813694
+s623
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/bin//easyCamExampleDebug.app/Contents/MacOS/easyCamExampleDebug
+t1303813708
+s3616072
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/bin//easyCamExampleDebug.app/Contents/PkgInfo
+t1303813694
+s8
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/bin/easyCamExampleDebug.app/Contents/Frameworks/GLUT.framework
+t1303813709
+s204
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/bin/easyCamExampleDebug.app/Contents/Resources/openFrameworks-Info.plist
+t1303813709
+s631
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/build/easyCamExample.build/Debug/easyCamExample.build/Objects-normal/i386/easyCamExampleDebug.LinkFileList
+c000000004DB69E3E0000000000000151
+t1303813694
+s337
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/build/easyCamExample.build/Debug/easyCamExample.build/Objects-normal/i386/main.o
+t1303813703
+s522096
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/build/easyCamExample.build/Debug/easyCamExample.build/Objects-normal/i386/testApp.o
+t1303813703
+s524984
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/build/easyCamExample.build/Debug/easyCamExample.build/Script-E4B6FFFD0C3F9AB9008CF71C.sh
+c000000004DB69E3E0000000000000113
+t1303813694
+s275
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/openFrameworks-Info.plist
+c000000004DAE266A0000000000000277
+t1303258730
+s631
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/src/main.cpp
+c000000004DAE266A00000000000000A3
+t1303258730
+s163
+i"ofAppGlutWindow.h"
+i"testApp.h"
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/src/testApp.cpp
+c000000004DAE266A000000000000092A
+t1303258730
+s2346
+i"testApp.h"
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/src/testApp.h
+c000000004DAE266A000000000000021B
+t1303258730
+s539
+i"ofMain.h"
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/fmodex/include/fmod.h
+c000000004DAE266A0000000000028E68
+t1303258730
+s167528
+i"fmod_codec.h"
+i"fmod_dsp.h"
+i"fmod_memoryinfo.h"
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/fmodex/include/fmod_codec.h
+c000000004DAE266A000000000000334A
+t1303258730
+s13130
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/fmodex/include/fmod_dsp.h
+c000000004DAE266A000000000000892F
+t1303258730
+s35119
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/fmodex/include/fmod_memoryinfo.h
+c000000004DAE266A0000000000003C95
+t1303258730
+s15509
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/glew/include/GL/glew.h
+c000000004DAE266A00000000000C1916
+t1303258730
+s792854
+i<stddef.h>
+i<inttypes.h>
+i<stdint.h>
+i<inttypes.h>
+i<OpenGL/glu.h>
+i<GL/glu.h>
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworks/3d/of3dUtils.h
+c000000004DAE266A00000000000000D8
+t1303258730
+s216
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworks/3d/ofCamera.h
+c000000004DAE266A0000000000000830
+t1303258730
+s2096
+i"ofRectangle.h"
+i"ofAppRunner.h"
+i"ofNode.h"
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworks/3d/ofEasyCam.h
+c000000004DAE266A000000000000053C
+t1303258730
+s1340
+i"ofCamera.h"
+i"ofEvents.h"
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworks/3d/ofMesh.h
+c000000004DAE266A0000000000000FDE
+t1303258730
+s4062
+i"ofVec3f.h"
+i"ofVec2f.h"
+i"ofColor.h"
+i"ofUtils.h"
+i"ofConstants.h"
+i"ofGLUtils.h"
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworks/3d/ofNode.h
+c000000004DAE266A000000000000143C
+t1303258730
+s5180
+i"ofVectorMath.h"
+i"of3dUtils.h"
+i"ofGraphics.h"
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworks/app/ofAppBaseWindow.h
+c000000004DAE266A000000000000057B
+t1303258730
+s1403
+i"ofPoint.h"
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworks/app/ofAppGlutWindow.h
+c000000004DAE266A0000000000000690
+t1303258730
+s1680
+i"ofConstants.h"
+i"ofAppBaseWindow.h"
+i"ofEvents.h"
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworks/app/ofAppRunner.h
+c000000004DAE266A0000000000000675
+t1303258730
+s1653
+i"ofConstants.h"
+i"ofPoint.h"
+i"ofRectangle.h"
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworks/app/ofBaseApp.h
+c000000004DAE266A0000000000000577
+t1303258730
+s1399
+i"ofPoint.h"
+i"ofEvents.h"
+i"ofBaseTypes.h"
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworks/communication/ofArduino.h
+c000000004DAE266A0000000000004200
+t1303258730
+s16896
+i<list>
+i<vector>
+i<string>
+i<iostream>
+i"ofEvents.h"
+i"ofSerial.h"
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworks/communication/ofSerial.h
+c000000004DAE266A0000000000000D7F
+t1303258730
+s3455
+i"ofConstants.h"
+i"ofTypes.h"
+i<termios.h>
+i<winbase.h>
+i<tchar.h>
+i<iostream>
+i<string.h>
+i<setupapi.h>
+i<regstr.h>
+i<winioctl.h>
+i<initguid.h>
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworks/events/ofEventUtils.h
+c000000004DAE266A0000000000000D87
+t1303258730
+s3463
+i"ofConstants.h"
+i"Poco/FIFOEvent.h"
+i"Poco/Delegate.h"
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworks/events/ofEvents.h
+c000000004DAE266A0000000000001B97
+t1303258730
+s7063
+i"ofConstants.h"
+i"ofPoint.h"
+i"ofEventUtils.h"
+i"ofxEventUtils.h"
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworks/gl/ofFbo.h
+c000000004DAE266A0000000000000BCD
+t1303258730
+s3021
+i"ofTexture.h"
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworks/gl/ofGLUtils.h
+c000000004DAE266A0000000000000A33
+t1303258730
+s2611
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworks/gl/ofLight.h
+c000000004DAE266A000000000000062B
+t1303258730
+s1579
+i"ofNode.h"
+i"ofColor.h"
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworks/gl/ofShader.h
+c000000004DAE266A0000000000000F84
+t1303258730
+s3972
+i"ofConstants.h"
+i"ofBaseTypes.h"
+i"ofTexture.h"
+i<map>
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworks/gl/ofTexture.h
+c000000004DAE266A0000000000000D70
+t1303258730
+s3440
+i"ofPoint.h"
+i"ofRectangle.h"
+i"ofBaseTypes.h"
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworks/gl/ofVbo.h
+c000000004DAE266A0000000000000A11
+t1303258730
+s2577
+i"ofConstants.h"
+i"ofVec3f.h"
+i"ofColor.h"
+i"ofUtils.h"
+i"ofMesh.h"
+i"ofGLUtils.h"
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworks/graphics/ofGraphics.h
+c000000004DAE266A0000000000001CA5
+t1303258730
+s7333
+i"ofConstants.h"
+i"ofColor.h"
+i"ofPoint.h"
+i"ofMatrix4x4.h"
+i"ofRectangle.h"
+i"ofTypes.h"
+i"ofBaseTypes.h"
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworks/graphics/ofImage.h
+c000000004DAE266A000000000000123E
+t1303258730
+s4670
+i"ofFileUtils.h"
+i"ofTexture.h"
+i"ofPixels.h"
+i"ofBaseTypes.h"
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworks/graphics/ofPath.h
+c000000004DAE266A0000000000001196
+t1303258730
+s4502
+i"ofConstants.h"
+i"ofPoint.h"
+i"ofColor.h"
+i"ofPolyline.h"
+i"ofBaseTypes.h"
+i"ofMesh.h"
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworks/graphics/ofPixelUtils.h
+c000000004DAE266A000000000000044F
+t1303258730
+s1103
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworks/graphics/ofPixels.h
+c000000004DAE266A0000000000000789
+t1303258730
+s1929
+i"ofConstants.h"
+i"ofUtils.h"
+i"ofColor.h"
+i"ofPixelUtils.h"
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworks/graphics/ofPolyline.h
+c000000004DAE266A0000000000000BC1
+t1303258730
+s3009
+i"ofPoint.h"
+i"ofConstants.h"
+i<deque>
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworks/graphics/ofTrueTypeFont.h
+c000000004DAE266A00000000000007F4
+t1303258730
+s2036
+i<vector>
+i"ofPoint.h"
+i"ofRectangle.h"
+i"ofConstants.h"
+i"ofPath.h"
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworks/math/ofMath.h
+c000000004DAE266A0000000000000A73
+t1303258730
+s2675
+i"ofPoint.h"
+i"ofConstants.h"
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworks/math/ofMatrix3x3.h
+c000000004DAE266A0000000000000A4C
+t1303258730
+s2636
+i"ofConstants.h"
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworks/math/ofMatrix4x4.h
+c000000004DAE266A0000000000006D64
+t1303258730
+s28004
+i"ofVec3f.h"
+i"ofVec4f.h"
+i"ofQuaternion.h"
+i"ofConstants.h"
+i<cmath>
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworks/math/ofQuaternion.h
+c000000004DAE266A00000000000033BD
+t1303258730
+s13245
+i"ofConstants.h"
+i"ofVec3f.h"
+i"ofVec4f.h"
+i<cmath>
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworks/math/ofVec2f.h
+c000000004DAE266A000000000000407D
+t1303258730
+s16509
+i"ofConstants.h"
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworks/math/ofVec3f.h
+c000000004DAE266A00000000000061A8
+t1303258730
+s25000
+i"ofVec2f.h"
+i"ofVec4f.h"
+i"ofConstants.h"
+i<cmath>
+i<iostream>
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworks/math/ofVec4f.h
+c000000004DAE266A0000000000002EC3
+t1303258730
+s11971
+i"ofConstants.h"
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworks/math/ofVectorMath.h
+c000000004DAE266A0000000000000099
+t1303258730
+s153
+i"ofVec2f.h"
+i"ofVec3f.h"
+i"ofVec4f.h"
+i"ofMatrix3x3.h"
+i"ofMatrix4x4.h"
+i"ofQuaternion.h"
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworks/ofMain.h
+c000000004DAE266A0000000000000595
+t1303258730
+s1429
+i"ofConstants.h"
+i"ofFileUtils.h"
+i"ofSystemUtils.h"
+i"ofThread.h"
+i"ofURLFileLoader.h"
+i"ofUtils.h"
+i"ofBaseTypes.h"
+i"ofTypes.h"
+i"ofColor.h"
+i"ofPoint.h"
+i"ofRectangle.h"
+i"ofMath.h"
+i"ofVectorMath.h"
+i"ofSerial.h"
+i"ofArduino.h"
+i"ofTexture.h"
+i"ofTrueTypeFont.h"
+i"ofGraphics.h"
+i"ofImage.h"
+i"ofFbo.h"
+i"ofShader.h"
+i"ofPixels.h"
+i"ofBaseApp.h"
+i"ofAppRunner.h"
+i"ofSoundStream.h"
+i"ofSoundPlayer.h"
+i"ofVideoGrabber.h"
+i"ofVideoPlayer.h"
+i"ofEvents.h"
+i"ofVbo.h"
+i"of3dUtils.h"
+i"ofNode.h"
+i"ofCamera.h"
+i"ofMesh.h"
+i"ofEasyCam.h"
+i"ofLight.h"
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworks/sound/ofBaseSoundPlayer.h
+c000000004DAE266A0000000000000366
+t1303258730
+s870
+i"ofConstants.h"
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworks/sound/ofBaseSoundStream.h
+c000000004DAE266A00000000000002D4
+t1303258730
+s724
+i"ofConstants.h"
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworks/sound/ofFmodSoundPlayer.h
+c000000004DAE266A00000000000006D9
+t1303258730
+s1753
+i"ofConstants.h"
+i"ofBaseSoundPlayer.h"
+i"fmod.h"
+i"fmod_errors.h"
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworks/sound/ofOpenALSoundPlayer.h
+c000000004DAE266A0000000000000DC3
+t1303258730
+s3523
+i"ofConstants.h"
+i"ofBaseSoundPlayer.h"
+i"ofEvents.h"
+i"ofThread.h"
+i<AL/al.h>
+i<AL/alc.h>
+i"kiss_fft.h"
+i"kiss_fftr.h"
+i<sndfile.h>
+i<mpg123.h>
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworks/sound/ofRtAudioSoundStream.h
+c000000004DAE266A000000000000048C
+t1303258730
+s1164
+i"ofConstants.h"
+i"ofBaseSoundStream.h"
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworks/sound/ofSoundPlayer.h
+c000000004DAE266A00000000000008EC
+t1303258730
+s2284
+i"ofConstants.h"
+i"fmod.h"
+i"fmod_errors.h"
+i"ofBaseTypes.h"
+i"ofBaseSoundPlayer.h"
+i"ofQuicktimeSoundPlayer.h"
+i"ofFmodSoundPlayer.h"
+i"ofOpenALSoundPlayer.h"
+i"ofxOpenALSoundPlayer.h"
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworks/sound/ofSoundStream.h
+c000000004DAE266A00000000000005C6
+t1303258730
+s1478
+i"ofConstants.h"
+i"ofBaseTypes.h"
+i"ofBaseApp.h"
+i"ofxAndroidSoundStream.h"
+i"ofRtAudioSoundStream.h"
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworks/types/ofBaseTypes.h
+c000000004DAE266A00000000000029B5
+t1303258730
+s10677
+i"ofPoint.h"
+i"ofRectangle.h"
+i"ofConstants.h"
+i"ofColor.h"
+i"ofMesh.h"
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworks/types/ofColor.h
+c000000004DAE266A0000000000000B50
+t1303258730
+s2896
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworks/types/ofPoint.h
+c000000004DAE266A000000000000003D
+t1303258730
+s61
+i"ofVec3f.h"
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworks/types/ofRectangle.h
+c000000004DAE266A0000000000000454
+t1303258730
+s1108
+i"ofPoint.h"
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworks/types/ofTypes.h
+c000000004DAE266A000000000000076F
+t1303258730
+s1903
+i"ofConstants.h"
+i"ofColor.h"
+i"Poco/Mutex.h"
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworks/utils/ofConstants.h
+c000000004DAE266A0000000000003065
+t1303258730
+s12389
+i<TargetConditionals.h>
+i<windows.h>
+i"GL\glew.h"
+i"GL\wglew.h"
+i"glu.h"
+i<unistd.h>
+i"glew.h"
+i<OpenGL/gl.h>
+i<ApplicationServices/ApplicationServices.h>
+i<unistd.h>
+i<GL/glew.h>
+i<GL/gl.h>
+i<GL/glx.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i<unistd.h>
+i<GLES/gl.h>
+i<GLES/glext.h>
+i"glu.h"
+i<cstdlib>
+i<cstdio>
+i<cstdarg>
+i<cmath>
+i<ctime>
+i<cstdlib>
+i<string>
+i<iostream>
+i<vector>
+i<cstring>
+i<sstream>
+i<iomanip>
+i<fstream>
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworks/utils/ofFileUtils.h
+c000000004DAE266A0000000000001C41
+t1303258730
+s7233
+i"ofConstants.h"
+i"Poco/File.h"
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworks/utils/ofLog.h
+c000000004DAE266A0000000000000298
+t1303258730
+s664
+i"ofConstants.h"
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworks/utils/ofSystemUtils.h
+c000000004DAE266A00000000000001AC
+t1303258730
+s428
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworks/utils/ofThread.h
+c000000004DAE266A000000000000050C
+t1303258730
+s1292
+i"ofConstants.h"
+i"ofTypes.h"
+i<process.h>
+i<pthread.h>
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworks/utils/ofURLFileLoader.h
+c000000004DAE266A0000000000000712
+t1303258730
+s1810
+i"ofThread.h"
+i"ofEvents.h"
+i"ofFileUtils.h"
+i<deque>
+i<queue>
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworks/utils/ofUtils.h
+c000000004DAE266A0000000000001341
+t1303258730
+s4929
+i"ofConstants.h"
+i<bitset>
+i"ofLog.h"
+i<shellapi.h>
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworks/video/ofDirectShowGrabber.h
+c000000004DAE266A0000000000000475
+t1303258730
+s1141
+i"ofConstants.h"
+i"ofTexture.h"
+i"ofBaseTypes.h"
+i"ofPixels.h"
+i"videoInput.h"
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworks/video/ofGstUtils.h
+c000000004DAE266A0000000000000FA6
+t1303258730
+s4006
+i"ofConstants.h"
+i<gst/gst.h>
+i<gst/app/gstappsink.h>
+i"ofConstants.h"
+i"ofBaseTypes.h"
+i"ofPixels.h"
+i"ofTypes.h"
+i"ofEvents.h"
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworks/video/ofGstVideoGrabber.h
+c000000004DAE266A0000000000000542
+t1303258730
+s1346
+i"ofGstUtils.h"
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworks/video/ofGstVideoPlayer.h
+c000000004DAE266A0000000000000574
+t1303258730
+s1396
+i"ofGstUtils.h"
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworks/video/ofQtUtils.h
+c000000004DAE266A00000000000006B5
+t1303258730
+s1717
+i"ofConstants.h"
+i<QuickTime/QuickTime.h>
+i<CoreServices/CoreServices.h>
+i<ApplicationServices/ApplicationServices.h>
+i<QTML.h>
+i<FixMath.h>
+i<QuickTimeComponents.h>
+i<TextUtils.h>
+i<MediaHandlers.h>
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworks/video/ofQuickTimeGrabber.h
+c000000004DAE266A0000000000000648
+t1303258730
+s1608
+i"ofConstants.h"
+i"ofQtUtils.h"
+i"ofTexture.h"
+i"ofBaseTypes.h"
+i"ofPixels.h"
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworks/video/ofQuickTimePlayer.h
+c000000004DAE266A00000000000008B8
+t1303258730
+s2232
+i"ofConstants.h"
+i"ofBaseTypes.h"
+i"ofPixels.h"
+i"ofQtUtils.h"
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworks/video/ofVideoGrabber.h
+c000000004DAE266A00000000000009D5
+t1303258730
+s2517
+i"ofConstants.h"
+i"ofTexture.h"
+i"ofBaseTypes.h"
+i"ofPixels.h"
+i"ofiPhoneVideoGrabber.h"
+i"ofQuickTimeGrabber.h"
+i"ofDirectShowGrabber.h"
+i"ofGstVideoGrabber.h"
+i"ofxAndroidVideoGrabber.h"
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworks/video/ofVideoPlayer.h
+c000000004DAE266A0000000000000ABD
+t1303258730
+s2749
+i"ofConstants.h"
+i"ofTexture.h"
+i"ofBaseTypes.h"
+i"ofGstVideoPlayer.h"
+i"ofQuickTimePlayer.h"
+i"ofiPhoneVideoPlayer.h"
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworks/video/ofiPhoneVideoGrabber.h
+c000000004DAE266A000000000000032E
+t1303258730
+s814
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworks/video/ofiPhoneVideoPlayer.h
+c000000004DAE266A00000000000005B0
+t1303258730
+s1456
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a
+c000000004DB69E3D0000000000E4F5D0
+t1303813693
+s15005136
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/poco/include/Poco/AbstractDelegate.h
+c000000004DAE266A0000000000000B59
+t1303258730
+s2905
+i"Poco/Foundation.h"
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/poco/include/Poco/AbstractEvent.h
+c000000004DAE266A0000000000002D7C
+t1303258730
+s11644
+i"Poco/Foundation.h"
+i"Poco/SingletonHolder.h"
+i"Poco/SharedPtr.h"
+i"Poco/ActiveResult.h"
+i"Poco/ActiveMethod.h"
+i"Poco/Mutex.h"
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/poco/include/Poco/ActiveMethod.h
+c000000004DAE266A0000000000001C64
+t1303258730
+s7268
+i"Poco/Foundation.h"
+i"Poco/ActiveResult.h"
+i"Poco/ActiveRunnable.h"
+i"Poco/ActiveStarter.h"
+i"Poco/AutoPtr.h"
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/poco/include/Poco/ActiveResult.h
+c000000004DAE266A0000000000002E66
+t1303258730
+s11878
+i"Poco/Foundation.h"
+i"Poco/Mutex.h"
+i"Poco/Event.h"
+i"Poco/RefCountedObject.h"
+i"Poco/Exception.h"
+i<algorithm>
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/poco/include/Poco/ActiveRunnable.h
+c000000004DAE266A0000000000001785
+t1303258730
+s6021
+i"Poco/Foundation.h"
+i"Poco/ActiveResult.h"
+i"Poco/Runnable.h"
+i"Poco/RefCountedObject.h"
+i"Poco/AutoPtr.h"
+i"Poco/Exception.h"
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/poco/include/Poco/ActiveStarter.h
+c000000004DAE266A0000000000000927
+t1303258730
+s2343
+i"Poco/Foundation.h"
+i"Poco/ThreadPool.h"
+i"Poco/ActiveRunnable.h"
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/poco/include/Poco/AtomicCounter.h
+c000000004DAE266A0000000000001D13
+t1303258730
+s7443
+i"Poco/Foundation.h"
+i"Poco/UnWindows.h"
+i<libkern/OSAtomic.h>
+i"Poco/Mutex.h"
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/poco/include/Poco/AutoPtr.h
+c000000004DAE266A0000000000001E0C
+t1303258730
+s7692
+i"Poco/Foundation.h"
+i"Poco/Exception.h"
+i<algorithm>
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/poco/include/Poco/Bugcheck.h
+c000000004DAE266A00000000000014A9
+t1303258730
+s5289
+i"Poco/Foundation.h"
+i<string>
+i<iostream>
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/poco/include/Poco/CompareFunctions.h
+c000000004DAE266A00000000000007EC
+t1303258730
+s2028
+i"Poco/Foundation.h"
+i<functional>
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/poco/include/Poco/Config.h
+c000000004DAE266A0000000000000E22
+t1303258730
+s3618
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/poco/include/Poco/Delegate.h
+c000000004DAE266A0000000000001828
+t1303258730
+s6184
+i"Poco/Foundation.h"
+i"Poco/AbstractDelegate.h"
+i"Poco/FunctionDelegate.h"
+i"Poco/Expire.h"
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/poco/include/Poco/Event.h
+c000000004DAE266A0000000000000E21
+t1303258730
+s3617
+i"Poco/Foundation.h"
+i"Poco/Exception.h"
+i"Poco/Event_WIN32.h"
+i"Poco/Event_POSIX.h"
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/poco/include/Poco/Event_POSIX.h
+c000000004DAE266A0000000000000A91
+t1303258730
+s2705
+i"Poco/Foundation.h"
+i"Poco/Exception.h"
+i<pthread.h>
+i<errno.h>
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/poco/include/Poco/Event_WIN32.h
+c000000004DAE266A000000000000093F
+t1303258730
+s2367
+i"Poco/Foundation.h"
+i"Poco/Exception.h"
+i"Poco/UnWindows.h"
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/poco/include/Poco/Exception.h
+c000000004DAE266A000000000000283D
+t1303258730
+s10301
+i"Poco/Foundation.h"
+i<stdexcept>
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/poco/include/Poco/Expire.h
+c000000004DAE266A0000000000000D0D
+t1303258730
+s3341
+i"Poco/Foundation.h"
+i"Poco/AbstractDelegate.h"
+i"Poco/Timestamp.h"
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/poco/include/Poco/FIFOEvent.h
+c000000004DAE266A0000000000000B15
+t1303258730
+s2837
+i"Poco/AbstractEvent.h"
+i"Poco/FIFOStrategy.h"
+i"Poco/AbstractDelegate.h"
+i"Poco/CompareFunctions.h"
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/poco/include/Poco/FIFOStrategy.h
+c000000004DAE266A0000000000001116
+t1303258730
+s4374
+i"Poco/NotificationStrategy.h"
+i<map>
+i<list>
+i<memory>
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/poco/include/Poco/File.h
+c000000004DAE266A0000000000001F91
+t1303258730
+s8081
+i"Poco/Foundation.h"
+i"Poco/Timestamp.h"
+i<vector>
+i"File_WINCE.h"
+i"Poco/File_WIN32U.h"
+i"Poco/File_WIN32.h"
+i"Poco/File_UNIX.h"
+i"Poco/File_VMS.h"
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/poco/include/Poco/File_UNIX.h
+c000000004DAE266A0000000000000BC1
+t1303258730
+s3009
+i"Poco/Foundation.h"
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/poco/include/Poco/File_VMS.h
+c000000004DAE266A0000000000000BBC
+t1303258730
+s3004
+i"Poco/Foundation.h"
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/poco/include/Poco/File_WIN32.h
+c000000004DAE266A0000000000000C0C
+t1303258730
+s3084
+i"Poco/Foundation.h"
+i"Poco/Timestamp.h"
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/poco/include/Poco/File_WIN32U.h
+c000000004DAE266A0000000000000C2B
+t1303258730
+s3115
+i"Poco/Foundation.h"
+i"Poco/Timestamp.h"
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/poco/include/Poco/File_WINCE.h
+c000000004DAE266A0000000000000C2C
+t1303258730
+s3116
+i"Poco/Foundation.h"
+i"Poco/Timestamp.h"
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/poco/include/Poco/Foundation.h
+c000000004DAE266A00000000000010BE
+t1303258730
+s4286
+i"Poco/Config.h"
+i"Poco/Platform.h"
+i"Poco/Platform_WIN32.h"
+i"Poco/Platform_VMS.h"
+i"Poco/Platform_POSIX.h"
+i"Poco/Bugcheck.h"
+i"Poco/Types.h"
+i<string>
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/poco/include/Poco/FunctionDelegate.h
+c000000004DAE266A00000000000013C8
+t1303258730
+s5064
+i"Poco/Foundation.h"
+i"Poco/AbstractDelegate.h"
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/poco/include/Poco/Mutex.h
+c000000004DAE266A0000000000001D9F
+t1303258730
+s7583
+i"Poco/Foundation.h"
+i"Poco/Exception.h"
+i"Poco/ScopedLock.h"
+i"Poco/Mutex_WINCE.h"
+i"Poco/Mutex_WIN32.h"
+i"Poco/Mutex_POSIX.h"
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/poco/include/Poco/Mutex_POSIX.h
+c000000004DAE266A0000000000000AC3
+t1303258730
+s2755
+i"Poco/Foundation.h"
+i"Poco/Exception.h"
+i<pthread.h>
+i<errno.h>
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/poco/include/Poco/Mutex_WIN32.h
+c000000004DAE266A0000000000000A04
+t1303258730
+s2564
+i"Poco/Foundation.h"
+i"Poco/Exception.h"
+i"Poco/UnWindows.h"
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/poco/include/Poco/Mutex_WINCE.h
+c000000004DAE266A0000000000000870
+t1303258730
+s2160
+i"Poco/Foundation.h"
+i"Poco/Exception.h"
+i"Poco/UnWindows.h"
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/poco/include/Poco/NotificationStrategy.h
+c000000004DAE266A0000000000000B48
+t1303258730
+s2888
+i"Poco/Foundation.h"
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/poco/include/Poco/Platform.h
+c000000004DAE266A0000000000001AF7
+t1303258730
+s6903
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/poco/include/Poco/Platform_POSIX.h
+c000000004DAE266A0000000000000843
+t1303258730
+s2115
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/poco/include/Poco/Platform_VMS.h
+c000000004DAE266A0000000000000BAA
+t1303258730
+s2986
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/poco/include/Poco/Platform_WIN32.h
+c000000004DAE266A0000000000000DCF
+t1303258730
+s3535
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/poco/include/Poco/RefCountedObject.h
+c000000004DAE266A0000000000000BB1
+t1303258730
+s2993
+i"Poco/Foundation.h"
+i"Poco/AtomicCounter.h"
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/poco/include/Poco/Runnable.h
+c000000004DAE266A0000000000000861
+t1303258730
+s2145
+i"Poco/Foundation.h"
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/poco/include/Poco/ScopedLock.h
+c000000004DAE266A0000000000000B7F
+t1303258730
+s2943
+i"Poco/Foundation.h"
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/poco/include/Poco/SharedPtr.h
+c000000004DAE266A0000000000002278
+t1303258730
+s8824
+i"Poco/Foundation.h"
+i"Poco/Exception.h"
+i"Poco/AtomicCounter.h"
+i<algorithm>
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/poco/include/Poco/SignalHandler.h
+c000000004DAE266A00000000000011EB
+t1303258730
+s4587
+i"Poco/Foundation.h"
+i<vector>
+i<setjmp.h>
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/poco/include/Poco/SingletonHolder.h
+c000000004DAE266A0000000000000A67
+t1303258730
+s2663
+i"Poco/Foundation.h"
+i"Poco/Mutex.h"
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/poco/include/Poco/Thread.h
+c000000004DAE266A0000000000001E10
+t1303258730
+s7696
+i"Poco/Foundation.h"
+i"Poco/Mutex.h"
+i"Poco/Thread_WINCE.h"
+i"Poco/Thread_WIN32.h"
+i"Poco/Thread_POSIX.h"
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/poco/include/Poco/ThreadPool.h
+c000000004DAE266A0000000000001C8A
+t1303258730
+s7306
+i"Poco/Foundation.h"
+i"Poco/Thread.h"
+i"Poco/Mutex.h"
+i<vector>
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/poco/include/Poco/Thread_POSIX.h
+c000000004DAE266A00000000000013B7
+t1303258730
+s5047
+i"Poco/Foundation.h"
+i"Poco/Runnable.h"
+i"Poco/SignalHandler.h"
+i"Poco/Event.h"
+i"Poco/RefCountedObject.h"
+i"Poco/AutoPtr.h"
+i<pthread.h>
+i<limits.h>
+i<sys/select.h>
+i<errno.h>
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/poco/include/Poco/Thread_WIN32.h
+c000000004DAE266A0000000000001301
+t1303258730
+s4865
+i"Poco/Foundation.h"
+i"Poco/Runnable.h"
+i"Poco/UnWindows.h"
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/poco/include/Poco/Thread_WINCE.h
+c000000004DAE266A0000000000001276
+t1303258730
+s4726
+i"Poco/Foundation.h"
+i"Poco/Runnable.h"
+i"Poco/UnWindows.h"
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/poco/include/Poco/Timestamp.h
+c000000004DAE266A0000000000001A41
+t1303258730
+s6721
+i"Poco/Foundation.h"
+i<ctime>
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/poco/include/Poco/Types.h
+c000000004DAE266A0000000000001926
+t1303258730
+s6438
+i"Poco/Foundation.h"
+
+N/Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/poco/include/Poco/UnWindows.h
+c000000004DAE266A0000000000000FC3
+t1303258730
+s4035
+i<windows.h>
+
+N/usr/include/TargetConditionals.h
+c000000004A8D4DF700000000000031E9
+t1250774519
+s12777
+
+N/usr/include/errno.h
+c000000004BBD2CE900000000000003EB
+t1270689001
+s1003
+
+N/usr/include/inttypes.h
+c000000004BBD2CE900000000000027D1
+t1270689001
+s10193
+
+N/usr/include/libkern/OSAtomic.h
+c000000004BBD2CE90000000000002519
+t1270689001
+s9497
+
+N/usr/include/pthread.h
+c000000004BBD2CE900000000000038F0
+t1270689001
+s14576
+
+N/usr/include/setjmp.h
+c000000004BBD2CE90000000000000438
+t1270689001
+s1080
+
+N/usr/include/string.h
+c000000004BBD2CE90000000000001731
+t1270689001
+s5937
+
+N/usr/include/sys/_types.h
+c000000004CC3DE680000000000001845
+t1287904872
+s6213
+
+N/usr/include/sys/select.h
+c000000004CC3DE6700000000000016A2
+t1287904871
+s5794
+
+N/usr/include/termios.h
+c000000004BBD2CE900000000000004D4
+t1270689001
+s1236
+
+N/usr/include/unistd.h
+c000000004BBD2CE9000000000000563E
+t1270689001
+s22078
+
+N/var/folders/tX/tXvC9lCoFsGsNVKB4K3ixE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-bxjmnftxvqnrlmbhxkkztiudyyyk/Carbon.h.gch
+t1303813702
+s53737264
+
+NopenFrameworks-Info.plist
+c000000004DAE266A0000000000000277
+t1303258730
+s631
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies325506493#325506494#0(110"[WARN]Warning: The Copy Files build phase contains this target's Info.plist file 'openFrameworks-Info.plist'.1(22@103"Warning: The Copy Files build phase contains this target's Info.plist file 'openFrameworks-Info.plist'.325506493#18446744073709551615#0#0(1@0"0(0#1#0"8606431424#0"0#
+
+CCompileC build/easyCamExample.build/Debug/easyCamExample.build/Objects-normal/i386/main.o /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/src/main.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s325506502.125271
+e325506503.767983
+r1
+xCompileC
+xbuild/easyCamExample.build/Debug/easyCamExample.build/Objects-normal/i386/main.o
+x/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/src/main.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+occ1plus: warning: -Wuninitialized is not supported without -O
+oIn file included from ../../../libs/openFrameworks/ofMain.h:14,
+o                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/src/testApp.h:3,
+o                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/src/main.cpp:2:
+o../../../libs/openFrameworks/types/ofBaseTypes.h:98: warning: 'class ofBaseSoundInput' has virtual functions but non-virtual destructor
+o../../../libs/openFrameworks/types/ofBaseTypes.h:115: warning: 'class ofBaseSoundOutput' has virtual functions but non-virtual destructor
+oIn file included from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/src/main.cpp:2:
+o../../../libs/openFrameworks/app/ofBaseApp.h:29: warning: 'virtual void ofBaseApp::mouseReleased()' was hidden
+o/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/src/testApp.h:17: warning:   by 'virtual void testApp::mouseReleased(int, int, int)'
+oi686-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done
+lSLF07#2@106"Compile /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/src/main.cpp325506502#325506503#0(1147"cc1plus: warning: -Wuninitialized is not supported without -OIn file included from ../../../libs/openFrameworks/ofMain.h:14,                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/src/testApp.h:3,                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/src/main.cpp:2:../../../libs/openFrameworks/types/ofBaseTypes.h:98: warning: 'class ofBaseSoundInput' has virtual functions but non-virtual destructor../../../libs/openFrameworks/types/ofBaseTypes.h:115: warning: 'class ofBaseSoundOutput' has virtual functions but non-virtual destructorIn file included from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/src/main.cpp:2:../../../libs/openFrameworks/app/ofBaseApp.h:29: warning: 'virtual void ofBaseApp::mouseReleased()' was hidden/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/src/testApp.h:17: warning:   by 'virtual void testApp::mouseReleased(int, int, int)'i686-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done5(22@43"-Wuninitialized is not supported without -O325506502#0#62#0(6@0"325506502#0#0#0#0#0"0(22@73"'class ofBaseSoundInput' has virtual functions but non-virtual destructor325506503#375#136#4(7@120"In file included from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/src/main.cpp325506503#18446744073709551615#0#0(6@98"/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/src/main.cpp324951530#2#0#2#0#0"0(7@121"In file included from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/src/testApp.h325506503#18446744073709551615#0#0(6@99"/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/src/testApp.h324951530#3#0#3#0#0"0(7@59"In file included from ../../../libs/openFrameworks/ofMain.h325506503#18446744073709551615#0#0(6@37"../../../libs/openFrameworks/ofMain.h325506503#14#0#14#0#0"0(13@125"'class ofBaseSoundInput' has virtual functions but non-virtual destructor in ../../../libs/openFrameworks/types/ofBaseTypes.h325506503#18446744073709551615#0#0(6@48"../../../libs/openFrameworks/types/ofBaseTypes.h325506503#98#0#98#0#0"0(6@48"../../../libs/openFrameworks/types/ofBaseTypes.h325506503#98#0#98#0#0"0(22@74"'class ofBaseSoundOutput' has virtual functions but non-virtual destructor325506503#511#138#4(7@120"In file included from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/src/main.cpp325506503#18446744073709551615#0#0(6@98"/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/src/main.cpp324951530#2#0#2#0#0"0(7@121"In file included from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/src/testApp.h325506503#18446744073709551615#0#0(6@99"/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/src/testApp.h324951530#3#0#3#0#0"0(7@59"In file included from ../../../libs/openFrameworks/ofMain.h325506503#18446744073709551615#0#0(6@37"../../../libs/openFrameworks/ofMain.h325506503#14#0#14#0#0"0(13@126"'class ofBaseSoundOutput' has virtual functions but non-virtual destructor in ../../../libs/openFrameworks/types/ofBaseTypes.h325506503#18446744073709551615#0#0(6@48"../../../libs/openFrameworks/types/ofBaseTypes.h325506503#115#0#115#0#0"0(6@48"../../../libs/openFrameworks/types/ofBaseTypes.h325506503#115#0#115#0#0"0(22@52"'virtual void ofBaseApp::mouseReleased()' was hidden325506503#773#111#2(7@120"In file included from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/src/main.cpp325506503#18446744073709551615#0#0(6@98"/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/src/main.cpp324951530#2#0#2#0#0"0(13@100"'virtual void ofBaseApp::mouseReleased()' was hidden in ../../../libs/openFrameworks/app/ofBaseApp.h325506503#18446744073709551615#0#0(6@44"../../../libs/openFrameworks/app/ofBaseApp.h325506503#29#0#29#0#0"0(6@44"../../../libs/openFrameworks/app/ofBaseApp.h325506503#29#0#29#0#0"0(22@55"By 'virtual void testApp::mouseReleased(int, int, int)'325506503#884#171#0(6@99"/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/src/testApp.h324951530#17#0#17#0#0"0(0#0#98"/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/src/main.cpp8603811104#2388"    cd /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample    setenv LANG en_US.US-ASCII    /Developer-old/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wmissing-field-initializers -fpermissive -Wreturn-type -Wnon-virtual-dtor -Woverloaded-virtual -Wparentheses -Wunused-function -Wunused-label -Wunused-variable -Wunused-value -Wuninitialized -Wunknown-pragmas -Wsign-compare -Wconversion -mfix-and-continue -ftree-vectorize -msse3 -mssse3 -gdwarf-2 -I/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/build/easyCamExample.build/Debug/easyCamExample.build/easyCamExampleDebug.hmap -F/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/bin -F/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/glut/lib/osx -I/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/bin/include -I../../../libs/glew/include -I../../../libs/openFrameworks -I../../../libs/openFrameworks/3d -I../../../libs/openFrameworks/app -I../../../libs/openFrameworks/communication -I../../../libs/openFrameworks/events -I../../../libs/openFrameworks/gl -I../../../libs/openFrameworks/graphics -I../../../libs/openFrameworks/math -I../../../libs/openFrameworks/sound -I../../../libs/openFrameworks/types -I../../../libs/openFrameworks/utils -I../../../libs/openFrameworks/video -I../../../libs/freetype/include -I../../../libs/freetype/include/freetype2 -I../../../libs/poco/include -I../../../addons -I/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/build/easyCamExample.build/Debug/easyCamExample.build/DerivedSources/i386 -I/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/build/easyCamExample.build/Debug/easyCamExample.build/DerivedSources -D__MACOSX_CORE__ -lpthread -include /var/folders/tX/tXvC9lCoFsGsNVKB4K3ixE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-bxjmnftxvqnrlmbhxkkztiudyyyk/Carbon.h -c /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/src/main.cpp -o /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/build/easyCamExample.build/Debug/easyCamExample.build/Objects-normal/i386/main.o0#
+
+CCompileC build/easyCamExample.build/Debug/easyCamExample.build/Objects-normal/i386/testApp.o /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/src/testApp.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s325506502.126180
+e325506503.781054
+r1
+xCompileC
+xbuild/easyCamExample.build/Debug/easyCamExample.build/Objects-normal/i386/testApp.o
+x/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/src/testApp.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+occ1plus: warning: -Wuninitialized is not supported without -O
+oIn file included from ../../../libs/openFrameworks/ofMain.h:14,
+o                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/src/testApp.h:3,
+o                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/src/testApp.cpp:1:
+o../../../libs/openFrameworks/types/ofBaseTypes.h:98: warning: 'class ofBaseSoundInput' has virtual functions but non-virtual destructor
+o../../../libs/openFrameworks/types/ofBaseTypes.h:115: warning: 'class ofBaseSoundOutput' has virtual functions but non-virtual destructor
+oIn file included from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/src/testApp.cpp:1:
+o../../../libs/openFrameworks/app/ofBaseApp.h:29: warning: 'virtual void ofBaseApp::mouseReleased()' was hidden
+o/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/src/testApp.h:17: warning:   by 'virtual void testApp::mouseReleased(int, int, int)'
+oi686-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done
+lSLF07#2@109"Compile /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/src/testApp.cpp325506502#325506503#0(1153"cc1plus: warning: -Wuninitialized is not supported without -OIn file included from ../../../libs/openFrameworks/ofMain.h:14,                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/src/testApp.h:3,                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/src/testApp.cpp:1:../../../libs/openFrameworks/types/ofBaseTypes.h:98: warning: 'class ofBaseSoundInput' has virtual functions but non-virtual destructor../../../libs/openFrameworks/types/ofBaseTypes.h:115: warning: 'class ofBaseSoundOutput' has virtual functions but non-virtual destructorIn file included from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/src/testApp.cpp:1:../../../libs/openFrameworks/app/ofBaseApp.h:29: warning: 'virtual void ofBaseApp::mouseReleased()' was hidden/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/src/testApp.h:17: warning:   by 'virtual void testApp::mouseReleased(int, int, int)'i686-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done5(22@43"-Wuninitialized is not supported without -O325506502#0#62#0(6@0"325506502#0#0#0#0#0"0(22@73"'class ofBaseSoundInput' has virtual functions but non-virtual destructor325506503#378#136#4(7@123"In file included from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/src/testApp.cpp325506503#18446744073709551615#0#0(6@101"/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/src/testApp.cpp324951530#1#0#1#0#0"0(7@121"In file included from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/src/testApp.h325506503#18446744073709551615#0#0(6@99"/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/src/testApp.h324951530#3#0#3#0#0"0(7@59"In file included from ../../../libs/openFrameworks/ofMain.h325506503#18446744073709551615#0#0(6@37"../../../libs/openFrameworks/ofMain.h325506503#14#0#14#0#0"0(13@125"'class ofBaseSoundInput' has virtual functions but non-virtual destructor in ../../../libs/openFrameworks/types/ofBaseTypes.h325506503#18446744073709551615#0#0(6@48"../../../libs/openFrameworks/types/ofBaseTypes.h325506503#98#0#98#0#0"0(6@48"../../../libs/openFrameworks/types/ofBaseTypes.h325506503#98#0#98#0#0"0(22@74"'class ofBaseSoundOutput' has virtual functions but non-virtual destructor325506503#514#138#4(7@123"In file included from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/src/testApp.cpp325506503#18446744073709551615#0#0(6@101"/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/src/testApp.cpp324951530#1#0#1#0#0"0(7@121"In file included from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/src/testApp.h325506503#18446744073709551615#0#0(6@99"/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/src/testApp.h324951530#3#0#3#0#0"0(7@59"In file included from ../../../libs/openFrameworks/ofMain.h325506503#18446744073709551615#0#0(6@37"../../../libs/openFrameworks/ofMain.h325506503#14#0#14#0#0"0(13@126"'class ofBaseSoundOutput' has virtual functions but non-virtual destructor in ../../../libs/openFrameworks/types/ofBaseTypes.h325506503#18446744073709551615#0#0(6@48"../../../libs/openFrameworks/types/ofBaseTypes.h325506503#115#0#115#0#0"0(6@48"../../../libs/openFrameworks/types/ofBaseTypes.h325506503#115#0#115#0#0"0(22@52"'virtual void ofBaseApp::mouseReleased()' was hidden325506503#779#111#2(7@123"In file included from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/src/testApp.cpp325506503#18446744073709551615#0#0(6@101"/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/src/testApp.cpp324951530#1#0#1#0#0"0(13@100"'virtual void ofBaseApp::mouseReleased()' was hidden in ../../../libs/openFrameworks/app/ofBaseApp.h325506503#18446744073709551615#0#0(6@44"../../../libs/openFrameworks/app/ofBaseApp.h325506503#29#0#29#0#0"0(6@44"../../../libs/openFrameworks/app/ofBaseApp.h325506503#29#0#29#0#0"0(22@55"By 'virtual void testApp::mouseReleased(int, int, int)'325506503#890#171#0(6@99"/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/src/testApp.h324951530#17#0#17#0#0"0(0#0#101"/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/src/testApp.cpp8601670240#2394"    cd /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample    setenv LANG en_US.US-ASCII    /Developer-old/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wmissing-field-initializers -fpermissive -Wreturn-type -Wnon-virtual-dtor -Woverloaded-virtual -Wparentheses -Wunused-function -Wunused-label -Wunused-variable -Wunused-value -Wuninitialized -Wunknown-pragmas -Wsign-compare -Wconversion -mfix-and-continue -ftree-vectorize -msse3 -mssse3 -gdwarf-2 -I/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/build/easyCamExample.build/Debug/easyCamExample.build/easyCamExampleDebug.hmap -F/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/bin -F/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/glut/lib/osx -I/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/bin/include -I../../../libs/glew/include -I../../../libs/openFrameworks -I../../../libs/openFrameworks/3d -I../../../libs/openFrameworks/app -I../../../libs/openFrameworks/communication -I../../../libs/openFrameworks/events -I../../../libs/openFrameworks/gl -I../../../libs/openFrameworks/graphics -I../../../libs/openFrameworks/math -I../../../libs/openFrameworks/sound -I../../../libs/openFrameworks/types -I../../../libs/openFrameworks/utils -I../../../libs/openFrameworks/video -I../../../libs/freetype/include -I../../../libs/freetype/include/freetype2 -I../../../libs/poco/include -I../../../addons -I/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/build/easyCamExample.build/Debug/easyCamExample.build/DerivedSources/i386 -I/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/build/easyCamExample.build/Debug/easyCamExample.build/DerivedSources -D__MACOSX_CORE__ -lpthread -include /var/folders/tX/tXvC9lCoFsGsNVKB4K3ixE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-bxjmnftxvqnrlmbhxkkztiudyyyk/Carbon.h -c /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/src/testApp.cpp -o /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/build/easyCamExample.build/Debug/easyCamExample.build/Objects-normal/i386/testApp.o0#
+
+CLd /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/bin//easyCamExampleDebug.app/Contents/MacOS/easyCamExampleDebug normal i386
+s325506503.781143
+e325506508.729392
+r1
+xLd
+x/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/bin//easyCamExampleDebug.app/Contents/MacOS/easyCamExampleDebug
+xnormal
+xi386
+old: warning: directory '/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/GLee/lib/osx' following -L not found
+old: warning: directory '/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../../../glew/glew-1.5.7/lib' following -L not found
+old: warning: directory '/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/glew/libs/osx' following -L not found
+old: warning: directory '/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../../../glew/glew-1.5.7/lib' following -L not found
+old: warning: directory '/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/glew/libs/osx' following -L not found
+old: warning: std::basic_string<char, std::char_traits<char>, std::allocator<char> >* std::__copy_backward<false, std::random_access_iterator_tag>::__copy_b<std::basic_string<char, std::char_traits<char>, std::allocator<char> >*, std::basic_string<char, std::char_traits<char>, std::allocator<char> >*>(std::basic_string<char, std::char_traits<char>, std::allocator<char> >*, std::basic_string<char, std::char_traits<char>, std::allocator<char> >*, std::basic_string<char, std::char_traits<char>, std::allocator<char> >*)has different visibility (hidden) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/poco/lib/osx/PocoFoundation.a(StringTokenizer.o) and (default) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)
+old: warning: std::_Vector_base<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::~_Vector_base()has different visibility (hidden) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/poco/lib/osx/PocoFoundation.a(StringTokenizer.o) and (default) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)
+old: warning: __gnu_cxx::new_allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > >::allocate(unsigned long, void const*)has different visibility (hidden) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/poco/lib/osx/PocoFoundation.a(StringTokenizer.o) and (default) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)
+old: warning: std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::~vector()has different visibility (hidden) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/poco/lib/osx/PocoFoundation.a(StringTokenizer.o) and (default) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)
+old: warning: std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::push_back(std::basic_string<char, std::char_traits<char>, std::allocator<char> > const&)has different visibility (hidden) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/poco/lib/osx/PocoFoundation.a(StringTokenizer.o) and (default) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)
+old: warning: __gnu_cxx::new_allocator<std::_Rb_tree_node<std::pair<unsigned int const, int> > >::allocate(unsigned long, void const*)has different visibility (hidden) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/FreeImage/lib/osx/freeimage.a(Exif.o-i386) and (default) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofTexture.o)
+old: warning: std::_Rb_tree<unsigned int, std::pair<unsigned int const, int>, std::_Select1st<std::pair<unsigned int const, int> >, std::less<unsigned int>, std::allocator<std::pair<unsigned int const, int> > >::_M_erase(std::_Rb_tree_node<std::pair<unsigned int const, int> >*)has different visibility (hidden) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/FreeImage/lib/osx/freeimage.a(Exif.o-i386) and (default) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofTexture.o)
+old: warning: std::_Rb_tree<unsigned int, std::pair<unsigned int const, int>, std::_Select1st<std::pair<unsigned int const, int> >, std::less<unsigned int>, std::allocator<std::pair<unsigned int const, int> > >::_M_create_node(std::pair<unsigned int const, int> const&)has different visibility (hidden) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/FreeImage/lib/osx/freeimage.a(Exif.o-i386) and (default) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofTexture.o)
+old: warning: std::_Rb_tree<unsigned int, std::pair<unsigned int const, int>, std::_Select1st<std::pair<unsigned int const, int> >, std::less<unsigned int>, std::allocator<std::pair<unsigned int const, int> > >::_M_insert(std::_Rb_tree_node_base*, std::_Rb_tree_node_base*, std::pair<unsigned int const, int> const&)has different visibility (hidden) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/FreeImage/lib/osx/freeimage.a(Exif.o-i386) and (default) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofTexture.o)
+old: warning: std::map<unsigned int, int, std::less<unsigned int>, std::allocator<std::pair<unsigned int const, int> > >::operator[](unsigned int const&)has different visibility (hidden) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/FreeImage/lib/osx/freeimage.a(Exif.o-i386) and (default) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofTexture.o)
+old: warning: __gnu_cxx::new_allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > >::allocate(unsigned long, void const*)has different visibility (hidden) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/FreeImage/lib/osx/freeimage.a(IPTC.o-i386) and (default) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)
+old: warning: std::_Vector_base<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::~_Vector_base()has different visibility (hidden) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/FreeImage/lib/osx/freeimage.a(IPTC.o-i386) and (default) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)
+old: warning: std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::~vector()has different visibility (hidden) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/FreeImage/lib/osx/freeimage.a(IPTC.o-i386) and (default) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)
+old: warning: std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::_M_insert_aux(__gnu_cxx::__normal_iterator<std::basic_string<char, std::char_traits<char>, std::allocator<char> >*, std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > > >, std::basic_string<char, std::char_traits<char>, std::allocator<char> > const&)has different visibility (hidden) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/FreeImage/lib/osx/freeimage.a(IPTC.o-i386) and (default) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)
+old: warning: std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::push_back(std::basic_string<char, std::char_traits<char>, std::allocator<char> > const&)has different visibility (hidden) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/FreeImage/lib/osx/freeimage.a(IPTC.o-i386) and (default) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)
+old: warning: std::basic_string<char, std::char_traits<char>, std::allocator<char> > std::operator+<char, std::char_traits<char>, std::allocator<char> >(std::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, char const*)has different visibility (hidden) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/FreeImage/lib/osx/freeimage.a(PluginEXR.o-i386) and (default) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofTessellator.o)
+old: warning: std::basic_string<char, std::char_traits<char>, std::allocator<char> > std::operator+<char, std::char_traits<char>, std::allocator<char> >(char const*, std::basic_string<char, std::char_traits<char>, std::allocator<char> > const&)has different visibility (hidden) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/FreeImage/lib/osx/freeimage.a(PluginEXR.o-i386) and (default) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofTessellator.o)
+old: warning: __gnu_cxx::new_allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > >::allocate(unsigned long, void const*)has different visibility (hidden) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/FreeImage/lib/osx/freeimage.a(ImfHeader.o-i386) and (default) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)
+old: warning: std::_Vector_base<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::~_Vector_base()has different visibility (hidden) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/FreeImage/lib/osx/freeimage.a(ImfHeader.o-i386) and (default) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)
+old: warning: std::basic_string<char, std::char_traits<char>, std::allocator<char> >* std::__copy<false, std::random_access_iterator_tag>::copy<std::basic_string<char, std::char_traits<char>, std::allocator<char> > const*, std::basic_string<char, std::char_traits<char>, std::allocator<char> >*>(std::basic_string<char, std::char_traits<char>, std::allocator<char> > const*, std::basic_string<char, std::char_traits<char>, std::allocator<char> > const*, std::basic_string<char, std::char_traits<char>, std::allocator<char> >*)has different visibility (hidden) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/FreeImage/lib/osx/freeimage.a(ImfHeader.o-i386) and (default) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofUtils.o)
+old: warning: std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::~vector()has different visibility (hidden) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/FreeImage/lib/osx/freeimage.a(ImfHeader.o-i386) and (default) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)
+old: warning: std::basic_string<char, std::char_traits<char>, std::allocator<char> >* std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::_M_allocate_and_copy<__gnu_cxx::__normal_iterator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > const*, std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > > > >(unsigned long, __gnu_cxx::__normal_iterator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > const*, std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > > >, __gnu_cxx::__normal_iterator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > const*, std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > > >)has different visibility (hidden) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/FreeImage/lib/osx/freeimage.a(ImfHeader.o-i386) and (default) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofUtils.o)
+old: warning: __gnu_cxx::new_allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > >::allocate(unsigned long, void const*)has different visibility (hidden) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/FreeImage/lib/osx/freeimage.a(ImfStringVectorAttribute.o-i386) and (default) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)
+old: warning: std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::_M_insert_aux(__gnu_cxx::__normal_iterator<std::basic_string<char, std::char_traits<char>, std::allocator<char> >*, std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > > >, std::basic_string<char, std::char_traits<char>, std::allocator<char> > const&)has different visibility (hidden) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/FreeImage/lib/osx/freeimage.a(ImfStringVectorAttribute.o-i386) and (default) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)
+old: warning: std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::push_back(std::basic_string<char, std::char_traits<char>, std::allocator<char> > const&)has different visibility (hidden) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/FreeImage/lib/osx/freeimage.a(ImfStringVectorAttribute.o-i386) and (default) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)
+old: warning: std::basic_string<char, std::char_traits<char>, std::allocator<char> > std::operator+<char, std::char_traits<char>, std::allocator<char> >(std::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, char const*)has different visibility (hidden) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/FreeImage/lib/osx/freeimage.a(ImfRgbaFile.o-i386) and (default) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofTessellator.o)
+old: warning: __gnu_cxx::new_allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > >::allocate(unsigned long, void const*)has different visibility (hidden) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/FreeImage/lib/osx/freeimage.a(ImfStandardAttributes.o-i386) and (default) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)
+old: warning: std::_Vector_base<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::~_Vector_base()has different visibility (hidden) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/FreeImage/lib/osx/freeimage.a(ImfStandardAttributes.o-i386) and (default) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)
+old: warning: std::_Vector_base<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::_Vector_base(unsigned long, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > const&)has different visibility (hidden) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/FreeImage/lib/osx/freeimage.a(ImfStandardAttributes.o-i386) and (default) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)
+old: warning: std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::~vector()has different visibility (hidden) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/FreeImage/lib/osx/freeimage.a(ImfStandardAttributes.o-i386) and (default) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)
+old: warning: std::basic_string<char, std::char_traits<char>, std::allocator<char> >* std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::_M_allocate_and_copy<__gnu_cxx::__normal_iterator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > const*, std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > > > >(unsigned long, __gnu_cxx::__normal_iterator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > const*, std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > > >, __gnu_cxx::__normal_iterator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > const*, std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > > >)has different visibility (hidden) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/FreeImage/lib/osx/freeimage.a(ImfStandardAttributes.o-i386) and (default) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofUtils.o)
+old: warning: std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::vector(std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > > const&)has different visibility (hidden) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/FreeImage/lib/osx/freeimage.a(ImfStandardAttributes.o-i386) and (default) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)
+lSLF07#2@154"Link /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/bin//easyCamExampleDebug.app/Contents/MacOS/easyCamExampleDebug325506503#325506508#0(21813"ld: warning: directory '/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/GLee/lib/osx' following -L not foundld: warning: directory '/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../../../glew/glew-1.5.7/lib' following -L not foundld: warning: directory '/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/glew/libs/osx' following -L not foundld: warning: directory '/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../../../glew/glew-1.5.7/lib' following -L not foundld: warning: directory '/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/glew/libs/osx' following -L not foundld: warning: std::basic_string<char, std::char_traits<char>, std::allocator<char> >* std::__copy_backward<false, std::random_access_iterator_tag>::__copy_b<std::basic_string<char, std::char_traits<char>, std::allocator<char> >*, std::basic_string<char, std::char_traits<char>, std::allocator<char> >*>(std::basic_string<char, std::char_traits<char>, std::allocator<char> >*, std::basic_string<char, std::char_traits<char>, std::allocator<char> >*, std::basic_string<char, std::char_traits<char>, std::allocator<char> >*)has different visibility (hidden) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/poco/lib/osx/PocoFoundation.a(StringTokenizer.o) and (default) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)ld: warning: std::_Vector_base<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::~_Vector_base()has different visibility (hidden) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/poco/lib/osx/PocoFoundation.a(StringTokenizer.o) and (default) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)ld: warning: __gnu_cxx::new_allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > >::allocate(unsigned long, void const*)has different visibility (hidden) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/poco/lib/osx/PocoFoundation.a(StringTokenizer.o) and (default) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)ld: warning: std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::~vector()has different visibility (hidden) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/poco/lib/osx/PocoFoundation.a(StringTokenizer.o) and (default) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)ld: warning: std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::push_back(std::basic_string<char, std::char_traits<char>, std::allocator<char> > const&)has different visibility (hidden) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/poco/lib/osx/PocoFoundation.a(StringTokenizer.o) and (default) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)ld: warning: __gnu_cxx::new_allocator<std::_Rb_tree_node<std::pair<unsigned int const, int> > >::allocate(unsigned long, void const*)has different visibility (hidden) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/FreeImage/lib/osx/freeimage.a(Exif.o-i386) and (default) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofTexture.o)ld: warning: std::_Rb_tree<unsigned int, std::pair<unsigned int const, int>, std::_Select1st<std::pair<unsigned int const, int> >, std::less<unsigned int>, std::allocator<std::pair<unsigned int const, int> > >::_M_erase(std::_Rb_tree_node<std::pair<unsigned int const, int> >*)has different visibility (hidden) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/FreeImage/lib/osx/freeimage.a(Exif.o-i386) and (default) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofTexture.o)ld: warning: std::_Rb_tree<unsigned int, std::pair<unsigned int const, int>, std::_Select1st<std::pair<unsigned int const, int> >, std::less<unsigned int>, std::allocator<std::pair<unsigned int const, int> > >::_M_create_node(std::pair<unsigned int const, int> const&)has different visibility (hidden) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/FreeImage/lib/osx/freeimage.a(Exif.o-i386) and (default) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofTexture.o)ld: warning: std::_Rb_tree<unsigned int, std::pair<unsigned int const, int>, std::_Select1st<std::pair<unsigned int const, int> >, std::less<unsigned int>, std::allocator<std::pair<unsigned int const, int> > >::_M_insert(std::_Rb_tree_node_base*, std::_Rb_tree_node_base*, std::pair<unsigned int const, int> const&)has different visibility (hidden) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/FreeImage/lib/osx/freeimage.a(Exif.o-i386) and (default) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofTexture.o)ld: warning: std::map<unsigned int, int, std::less<unsigned int>, std::allocator<std::pair<unsigned int const, int> > >::operator[](unsigned int const&)has different visibility (hidden) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/FreeImage/lib/osx/freeimage.a(Exif.o-i386) and (default) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofTexture.o)ld: warning: __gnu_cxx::new_allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > >::allocate(unsigned long, void const*)has different visibility (hidden) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/FreeImage/lib/osx/freeimage.a(IPTC.o-i386) and (default) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)ld: warning: std::_Vector_base<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::~_Vector_base()has different visibility (hidden) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/FreeImage/lib/osx/freeimage.a(IPTC.o-i386) and (default) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)ld: warning: std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::~vector()has different visibility (hidden) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/FreeImage/lib/osx/freeimage.a(IPTC.o-i386) and (default) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)ld: warning: std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::_M_insert_aux(__gnu_cxx::__normal_iterator<std::basic_string<char, std::char_traits<char>, std::allocator<char> >*, std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > > >, std::basic_string<char, std::char_traits<char>, std::allocator<char> > const&)has different visibility (hidden) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/FreeImage/lib/osx/freeimage.a(IPTC.o-i386) and (default) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)ld: warning: std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::push_back(std::basic_string<char, std::char_traits<char>, std::allocator<char> > const&)has different visibility (hidden) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/FreeImage/lib/osx/freeimage.a(IPTC.o-i386) and (default) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)ld: warning: std::basic_string<char, std::char_traits<char>, std::allocator<char> > std::operator+<char, std::char_traits<char>, std::allocator<char> >(std::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, char const*)has different visibility (hidden) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/FreeImage/lib/osx/freeimage.a(PluginEXR.o-i386) and (default) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofTessellator.o)ld: warning: std::basic_string<char, std::char_traits<char>, std::allocator<char> > std::operator+<char, std::char_traits<char>, std::allocator<char> >(char const*, std::basic_string<char, std::char_traits<char>, std::allocator<char> > const&)has different visibility (hidden) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/FreeImage/lib/osx/freeimage.a(PluginEXR.o-i386) and (default) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofTessellator.o)ld: warning: __gnu_cxx::new_allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > >::allocate(unsigned long, void const*)has different visibility (hidden) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/FreeImage/lib/osx/freeimage.a(ImfHeader.o-i386) and (default) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)ld: warning: std::_Vector_base<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::~_Vector_base()has different visibility (hidden) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/FreeImage/lib/osx/freeimage.a(ImfHeader.o-i386) and (default) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)ld: warning: std::basic_string<char, std::char_traits<char>, std::allocator<char> >* std::__copy<false, std::random_access_iterator_tag>::copy<std::basic_string<char, std::char_traits<char>, std::allocator<char> > const*, std::basic_string<char, std::char_traits<char>, std::allocator<char> >*>(std::basic_string<char, std::char_traits<char>, std::allocator<char> > const*, std::basic_string<char, std::char_traits<char>, std::allocator<char> > const*, std::basic_string<char, std::char_traits<char>, std::allocator<char> >*)has different visibility (hidden) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/FreeImage/lib/osx/freeimage.a(ImfHeader.o-i386) and (default) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofUtils.o)ld: warning: std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::~vector()has different visibility (hidden) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/FreeImage/lib/osx/freeimage.a(ImfHeader.o-i386) and (default) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)ld: warning: std::basic_string<char, std::char_traits<char>, std::allocator<char> >* std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::_M_allocate_and_copy<__gnu_cxx::__normal_iterator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > const*, std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > > > >(unsigned long, __gnu_cxx::__normal_iterator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > const*, std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > > >, __gnu_cxx::__normal_iterator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > const*, std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > > >)has different visibility (hidden) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/FreeImage/lib/osx/freeimage.a(ImfHeader.o-i386) and (default) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofUtils.o)ld: warning: __gnu_cxx::new_allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > >::allocate(unsigned long, void const*)has different visibility (hidden) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/FreeImage/lib/osx/freeimage.a(ImfStringVectorAttribute.o-i386) and (default) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)ld: warning: std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::_M_insert_aux(__gnu_cxx::__normal_iterator<std::basic_string<char, std::char_traits<char>, std::allocator<char> >*, std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > > >, std::basic_string<char, std::char_traits<char>, std::allocator<char> > const&)has different visibility (hidden) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/FreeImage/lib/osx/freeimage.a(ImfStringVectorAttribute.o-i386) and (default) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)ld: warning: std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::push_back(std::basic_string<char, std::char_traits<char>, std::allocator<char> > const&)has different visibility (hidden) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/FreeImage/lib/osx/freeimage.a(ImfStringVectorAttribute.o-i386) and (default) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)ld: warning: std::basic_string<char, std::char_traits<char>, std::allocator<char> > std::operator+<char, std::char_traits<char>, std::allocator<char> >(std::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, char const*)has different visibility (hidden) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/FreeImage/lib/osx/freeimage.a(ImfRgbaFile.o-i386) and (default) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofTessellator.o)ld: warning: __gnu_cxx::new_allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > >::allocate(unsigned long, void const*)has different visibility (hidden) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/FreeImage/lib/osx/freeimage.a(ImfStandardAttributes.o-i386) and (default) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)ld: warning: std::_Vector_base<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::~_Vector_base()has different visibility (hidden) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/FreeImage/lib/osx/freeimage.a(ImfStandardAttributes.o-i386) and (default) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)ld: warning: std::_Vector_base<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::_Vector_base(unsigned long, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > const&)has different visibility (hidden) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/FreeImage/lib/osx/freeimage.a(ImfStandardAttributes.o-i386) and (default) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)ld: warning: std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::~vector()has different visibility (hidden) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/FreeImage/lib/osx/freeimage.a(ImfStandardAttributes.o-i386) and (default) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)ld: warning: std::basic_string<char, std::char_traits<char>, std::allocator<char> >* std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::_M_allocate_and_copy<__gnu_cxx::__normal_iterator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > const*, std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > > > >(unsigned long, __gnu_cxx::__normal_iterator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > const*, std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > > >, __gnu_cxx::__normal_iterator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > const*, std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > > >)has different visibility (hidden) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/FreeImage/lib/osx/freeimage.a(ImfStandardAttributes.o-i386) and (default) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofUtils.o)ld: warning: std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::vector(std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > > const&)has different visibility (hidden) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/FreeImage/lib/osx/freeimage.a(ImfStandardAttributes.o-i386) and (default) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)37(22@147"Directory '/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/GLee/lib/osx' following -L not found325506508#0#161#0(6@0"325506508#0#0#0#0#0"0(22@155"Directory '/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../../../glew/glew-1.5.7/lib' following -L not found325506508#161#169#0(6@0"325506508#0#0#0#0#0"0(22@148"Directory '/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/glew/libs/osx' following -L not found325506508#330#162#0(6@0"325506508#0#0#0#0#0"0(22@155"Directory '/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../../../glew/glew-1.5.7/lib' following -L not found325506508#492#169#0(6@0"325506508#0#0#0#0#0"0(22@148"Directory '/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/glew/libs/osx' following -L not found325506508#661#162#0(6@0"325506508#0#0#0#0#0"0(22@843"Std::basic_string<char, std::char_traits<char>, std::allocator<char> >* std::__copy_backward<false, std::random_access_iterator_tag>::__copy_b<std::basic_string<char, std::char_traits<char>, std::allocator<char> >*, std::basic_string<char, std::char_traits<char>, std::allocator<char> >*>(std::basic_string<char, std::char_traits<char>, std::allocator<char> >*, std::basic_string<char, std::char_traits<char>, std::allocator<char> >*, std::basic_string<char, std::char_traits<char>, std::allocator<char> >*)has different visibility (hidden) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/poco/lib/osx/PocoFoundation.a(StringTokenizer.o) and (default) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)325506508#823#857#0(6@0"325506508#0#0#0#0#0"0(22@532"Std::_Vector_base<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::~_Vector_base()has different visibility (hidden) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/poco/lib/osx/PocoFoundation.a(StringTokenizer.o) and (default) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)325506508#1680#546#0(6@0"325506508#0#0#0#0#0"0(22@471"__gnu_cxx::new_allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > >::allocate(unsigned long, void const*)has different visibility (hidden) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/poco/lib/osx/PocoFoundation.a(StringTokenizer.o) and (default) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)325506508#2226#485#0(6@0"325506508#0#0#0#0#0"0(22@520"Std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::~vector()has different visibility (hidden) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/poco/lib/osx/PocoFoundation.a(StringTokenizer.o) and (default) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)325506508#2711#534#0(6@0"325506508#0#0#0#0#0"0(22@599"Std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::push_back(std::basic_string<char, std::char_traits<char>, std::allocator<char> > const&)has different visibility (hidden) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/poco/lib/osx/PocoFoundation.a(StringTokenizer.o) and (default) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)325506508#3245#613#0(6@0"325506508#0#0#0#0#0"0(22@444"__gnu_cxx::new_allocator<std::_Rb_tree_node<std::pair<unsigned int const, int> > >::allocate(unsigned long, void const*)has different visibility (hidden) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/FreeImage/lib/osx/freeimage.a(Exif.o-i386) and (default) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofTexture.o)325506508#3858#458#0(6@0"325506508#0#0#0#0#0"0(22@588"Std::_Rb_tree<unsigned int, std::pair<unsigned int const, int>, std::_Select1st<std::pair<unsigned int const, int> >, std::less<unsigned int>, std::allocator<std::pair<unsigned int const, int> > >::_M_erase(std::_Rb_tree_node<std::pair<unsigned int const, int> >*)has different visibility (hidden) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/FreeImage/lib/osx/freeimage.a(Exif.o-i386) and (default) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofTexture.o)325506508#4316#602#0(6@0"325506508#0#0#0#0#0"0(22@579"Std::_Rb_tree<unsigned int, std::pair<unsigned int const, int>, std::_Select1st<std::pair<unsigned int const, int> >, std::less<unsigned int>, std::allocator<std::pair<unsigned int const, int> > >::_M_create_node(std::pair<unsigned int const, int> const&)has different visibility (hidden) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/FreeImage/lib/osx/freeimage.a(Exif.o-i386) and (default) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofTexture.o)325506508#4918#593#0(6@0"325506508#0#0#0#0#0"0(22@626"Std::_Rb_tree<unsigned int, std::pair<unsigned int const, int>, std::_Select1st<std::pair<unsigned int const, int> >, std::less<unsigned int>, std::allocator<std::pair<unsigned int const, int> > >::_M_insert(std::_Rb_tree_node_base*, std::_Rb_tree_node_base*, std::pair<unsigned int const, int> const&)has different visibility (hidden) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/FreeImage/lib/osx/freeimage.a(Exif.o-i386) and (default) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofTexture.o)325506508#5511#640#0(6@0"325506508#0#0#0#0#0"0(22@463"Std::map<unsigned int, int, std::less<unsigned int>, std::allocator<std::pair<unsigned int const, int> > >::operator[](unsigned int const&)has different visibility (hidden) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/FreeImage/lib/osx/freeimage.a(Exif.o-i386) and (default) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofTexture.o)325506508#6151#477#0(6@0"325506508#0#0#0#0#0"0(22@465"__gnu_cxx::new_allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > >::allocate(unsigned long, void const*)has different visibility (hidden) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/FreeImage/lib/osx/freeimage.a(IPTC.o-i386) and (default) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)325506508#6628#479#0(6@0"325506508#0#0#0#0#0"0(22@526"Std::_Vector_base<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::~_Vector_base()has different visibility (hidden) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/FreeImage/lib/osx/freeimage.a(IPTC.o-i386) and (default) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)325506508#7107#540#0(6@0"325506508#0#0#0#0#0"0(22@514"Std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::~vector()has different visibility (hidden) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/FreeImage/lib/osx/freeimage.a(IPTC.o-i386) and (default) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)325506508#7647#528#0(6@0"325506508#0#0#0#0#0"0(22@876"Std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::_M_insert_aux(__gnu_cxx::__normal_iterator<std::basic_string<char, std::char_traits<char>, std::allocator<char> >*, std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > > >, std::basic_string<char, std::char_traits<char>, std::allocator<char> > const&)has different visibility (hidden) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/FreeImage/lib/osx/freeimage.a(IPTC.o-i386) and (default) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)325506508#8175#890#0(6@0"325506508#0#0#0#0#0"0(22@593"Std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::push_back(std::basic_string<char, std::char_traits<char>, std::allocator<char> > const&)has different visibility (hidden) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/FreeImage/lib/osx/freeimage.a(IPTC.o-i386) and (default) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)325506508#9065#607#0(6@0"325506508#0#0#0#0#0"0(22@563"Std::basic_string<char, std::char_traits<char>, std::allocator<char> > std::operator+<char, std::char_traits<char>, std::allocator<char> >(std::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, char const*)has different visibility (hidden) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/FreeImage/lib/osx/freeimage.a(PluginEXR.o-i386) and (default) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofTessellator.o)325506508#9672#577#0(6@0"325506508#0#0#0#0#0"0(22@563"Std::basic_string<char, std::char_traits<char>, std::allocator<char> > std::operator+<char, std::char_traits<char>, std::allocator<char> >(char const*, std::basic_string<char, std::char_traits<char>, std::allocator<char> > const&)has different visibility (hidden) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/FreeImage/lib/osx/freeimage.a(PluginEXR.o-i386) and (default) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofTessellator.o)325506508#10249#577#0(6@0"325506508#0#0#0#0#0"0(22@470"__gnu_cxx::new_allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > >::allocate(unsigned long, void const*)has different visibility (hidden) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/FreeImage/lib/osx/freeimage.a(ImfHeader.o-i386) and (default) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)325506508#10826#484#0(6@0"325506508#0#0#0#0#0"0(22@531"Std::_Vector_base<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::~_Vector_base()has different visibility (hidden) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/FreeImage/lib/osx/freeimage.a(ImfHeader.o-i386) and (default) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)325506508#11310#545#0(6@0"325506508#0#0#0#0#0"0(22@839"Std::basic_string<char, std::char_traits<char>, std::allocator<char> >* std::__copy<false, std::random_access_iterator_tag>::copy<std::basic_string<char, std::char_traits<char>, std::allocator<char> > const*, std::basic_string<char, std::char_traits<char>, std::allocator<char> >*>(std::basic_string<char, std::char_traits<char>, std::allocator<char> > const*, std::basic_string<char, std::char_traits<char>, std::allocator<char> > const*, std::basic_string<char, std::char_traits<char>, std::allocator<char> >*)has different visibility (hidden) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/FreeImage/lib/osx/freeimage.a(ImfHeader.o-i386) and (default) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofUtils.o)325506508#11855#853#0(6@0"325506508#0#0#0#0#0"0(22@519"Std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::~vector()has different visibility (hidden) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/FreeImage/lib/osx/freeimage.a(ImfHeader.o-i386) and (default) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)325506508#12708#533#0(6@0"325506508#0#0#0#0#0"0(22@1465"Std::basic_string<char, std::char_traits<char>, std::allocator<char> >* std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::_M_allocate_and_copy<__gnu_cxx::__normal_iterator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > const*, std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > > > >(unsigned long, __gnu_cxx::__normal_iterator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > const*, std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > > >, __gnu_cxx::__normal_iterator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > const*, std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > > >)has different visibility (hidden) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/FreeImage/lib/osx/freeimage.a(ImfHeader.o-i386) and (default) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofUtils.o)325506508#13241#1479#0(6@0"325506508#0#0#0#0#0"0(22@485"__gnu_cxx::new_allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > >::allocate(unsigned long, void const*)has different visibility (hidden) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/FreeImage/lib/osx/freeimage.a(ImfStringVectorAttribute.o-i386) and (default) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)325506508#14720#499#0(6@0"325506508#0#0#0#0#0"0(22@896"Std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::_M_insert_aux(__gnu_cxx::__normal_iterator<std::basic_string<char, std::char_traits<char>, std::allocator<char> >*, std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > > >, std::basic_string<char, std::char_traits<char>, std::allocator<char> > const&)has different visibility (hidden) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/FreeImage/lib/osx/freeimage.a(ImfStringVectorAttribute.o-i386) and (default) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)325506508#15219#910#0(6@0"325506508#0#0#0#0#0"0(22@613"Std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::push_back(std::basic_string<char, std::char_traits<char>, std::allocator<char> > const&)has different visibility (hidden) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/FreeImage/lib/osx/freeimage.a(ImfStringVectorAttribute.o-i386) and (default) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)325506508#16129#627#0(6@0"325506508#0#0#0#0#0"0(22@565"Std::basic_string<char, std::char_traits<char>, std::allocator<char> > std::operator+<char, std::char_traits<char>, std::allocator<char> >(std::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, char const*)has different visibility (hidden) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/FreeImage/lib/osx/freeimage.a(ImfRgbaFile.o-i386) and (default) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofTessellator.o)325506508#16756#579#0(6@0"325506508#0#0#0#0#0"0(22@482"__gnu_cxx::new_allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > >::allocate(unsigned long, void const*)has different visibility (hidden) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/FreeImage/lib/osx/freeimage.a(ImfStandardAttributes.o-i386) and (default) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)325506508#17335#496#0(6@0"325506508#0#0#0#0#0"0(22@543"Std::_Vector_base<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::~_Vector_base()has different visibility (hidden) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/FreeImage/lib/osx/freeimage.a(ImfStandardAttributes.o-i386) and (default) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)325506508#17831#557#0(6@0"325506508#0#0#0#0#0"0(22@651"Std::_Vector_base<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::_Vector_base(unsigned long, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > const&)has different visibility (hidden) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/FreeImage/lib/osx/freeimage.a(ImfStandardAttributes.o-i386) and (default) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)325506508#18388#665#0(6@0"325506508#0#0#0#0#0"0(22@531"Std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::~vector()has different visibility (hidden) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/FreeImage/lib/osx/freeimage.a(ImfStandardAttributes.o-i386) and (default) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)325506508#19053#545#0(6@0"325506508#0#0#0#0#0"0(22@1477"Std::basic_string<char, std::char_traits<char>, std::allocator<char> >* std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::_M_allocate_and_copy<__gnu_cxx::__normal_iterator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > const*, std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > > > >(unsigned long, __gnu_cxx::__normal_iterator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > const*, std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > > >, __gnu_cxx::__normal_iterator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > const*, std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > > >)has different visibility (hidden) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/FreeImage/lib/osx/freeimage.a(ImfStandardAttributes.o-i386) and (default) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofUtils.o)325506508#19598#1491#0(6@0"325506508#0#0#0#0#0"0(22@710"Std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > >::vector(std::vector<std::basic_string<char, std::char_traits<char>, std::allocator<char> >, std::allocator<std::basic_string<char, std::char_traits<char>, std::allocator<char> > > > const&)has different visibility (hidden) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/FreeImage/lib/osx/freeimage.a(ImfStandardAttributes.o-i386) and (default) in /Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a(ofAppGlutWindow.o)325506508#21089#724#0(6@0"325506508#0#0#0#0#0"0(0#0#0"8606271552#4082"    cd /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample    /Developer-old/usr/bin/g++-4.2 -arch i386 -L/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/bin -L/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/freeimage/lib/osx -L/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/FreeImage/lib/osx -L/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/glew/lib/osx -L/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/GLee/lib/osx -L/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/poco/lib/osx -L/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/rtAudio/lib/osx -L/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../../../glew/glew-1.5.7/lib -L/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/glew/lib/osx -L/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/glew/libs/osx -L/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/fmodex/lib/osx -L/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/freetype/lib/osx -L/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/FreeImage/lib/osx -L/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/glew/lib/osx -L/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../../../glew/glew-1.5.7/lib -L/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/glew/lib/osx -L/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/glew/libs/osx -F/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/bin -F/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/glut/lib/osx -filelist /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/build/easyCamExample.build/Debug/easyCamExample.build/Objects-normal/i386/easyCamExampleDebug.LinkFileList -dead_strip /Users/Martial/Git/openframeworks-openFrameworks-047525a/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/rtAudio/lib/osx/rtAudio.a -framework AGL -framework ApplicationServices -framework AudioToolbox -framework Carbon -framework CoreAudio -framework CoreFoundation -framework CoreServices -framework OpenGL -framework QuickTime -framework AppKit -framework Cocoa -framework IOKit -framework GLUT /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/poco/lib/osx/PocoFoundation.a /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/poco/lib/osx/PocoNet.a /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/poco/lib/osx/PocoUtil.a /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/poco/lib/osx/PocoXML.a /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/freetype/lib/osx/freetype.a -lfmodex /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/FreeImage/lib/osx/freeimage.a /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/glew/lib/osx/glew.a -o /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/bin//easyCamExampleDebug.app/Contents/MacOS/easyCamExampleDebug0#
+
+CPBXCp bin/easyCamExampleDebug.app/Contents/Frameworks/GLUT.framework ../../../libs/glut/lib/osx/GLUT.framework
+s325506508.981404
+e325506509.158476
+r1
+xPBXCp
+xbin/easyCamExampleDebug.app/Contents/Frameworks/GLUT.framework
+x../../../libs/glut/lib/osx/GLUT.framework
+lSLF07#2@46"Copy ../../../libs/glut/lib/osx/GLUT.framework325506508#325506509#0(0"0(0#0#127"/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/glut/lib/osx/GLUT.framework8607421920#521"    cd /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample    /Developer-old/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/glut/lib/osx/GLUT.framework /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/bin/easyCamExampleDebug.app/Contents/Frameworks0#
+
+CPBXCp bin/easyCamExampleDebug.app/Contents/Resources/openFrameworks-Info.plist openFrameworks-Info.plist
+s325506509.158624
+e325506509.163168
+r1
+xPBXCp
+xbin/easyCamExampleDebug.app/Contents/Resources/openFrameworks-Info.plist
+xopenFrameworks-Info.plist
+lSLF07#2@30"Copy openFrameworks-Info.plist325506509#325506509#0(0"0(0#0#111"/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/openFrameworks-Info.plist8606611168#504"    cd /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample    /Developer-old/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/openFrameworks-Info.plist /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/bin/easyCamExampleDebug.app/Contents/Resources0#
+
+CPhaseScriptExecution "Run Script" /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/build/easyCamExample.build/Debug/easyCamExample.build/Script-E4B6FFFD0C3F9AB9008CF71C.sh
+s325506508.729529
+e325506508.981306
+r1
+xPhaseScriptExecution
+xRun Script
+x/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/build/easyCamExample.build/Debug/easyCamExample.build/Script-E4B6FFFD0C3F9AB9008CF71C.sh
+lSLF07#2@36"Run custom shell script 'Run Script'325506508#325506508#0(0"0(0#0#0"8607534208#24770"    cd /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample    setenv ACTION build    setenv ALTERNATE_GROUP staff    setenv ALTERNATE_MODE u+w,go-w,a+rX    setenv ALTERNATE_OWNER Martial    setenv ALWAYS_SEARCH_USER_PATHS YES    setenv APPLE_INTERNAL_DEVELOPER_DIR /AppleInternal/Developer    setenv APPLE_INTERNAL_DIR /AppleInternal    setenv APPLE_INTERNAL_DOCUMENTATION_DIR /AppleInternal/Documentation    setenv APPLE_INTERNAL_LIBRARY_DIR /AppleInternal/Library    setenv APPLE_INTERNAL_TOOLS /AppleInternal/Developer/Tools    setenv APPLY_RULES_IN_COPY_FILES NO    setenv ARCHS i386    setenv ARCHS_STANDARD_32_64_BIT "x86_64 i386 ppc"    setenv ARCHS_STANDARD_32_BIT "i386 ppc"    setenv ARCHS_STANDARD_64_BIT x86_64    setenv BUILD_COMPONENTS "headers build"    setenv BUILD_DIR /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/build    setenv BUILD_ROOT /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/build    setenv BUILD_STYLE Debug    setenv BUILD_VARIANTS normal    setenv BUILT_PRODUCTS_DIR /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/bin/    setenv CACHE_ROOT /var/folders/tX/tXvC9lCoFsGsNVKB4K3ixE+++TI/-Caches-/com.apple.Xcode.501    setenv CCHROOT /var/folders/tX/tXvC9lCoFsGsNVKB4K3ixE+++TI/-Caches-/com.apple.Xcode.501    setenv CHMOD /bin/chmod    setenv CHOWN /usr/sbin/chown    setenv CLASS_FILE_DIR /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/build/easyCamExample.build/Debug/easyCamExample.build/JavaClasses    setenv CLEAN_PRECOMPS YES    setenv CLONE_HEADERS NO    setenv CODESIGNING_FOLDER_PATH /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/bin//easyCamExampleDebug.app    setenv CODE_SIGNING_ALLOWED YES    setenv COMMAND_MODE legacy    setenv COMPOSITE_SDK_DIRS /var/folders/tX/tXvC9lCoFsGsNVKB4K3ixE+++TI/-Caches-/com.apple.Xcode.501/CompositeSDKs    setenv CONFIGURATION Debug    setenv CONFIGURATION_BUILD_DIR /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/bin/    setenv CONFIGURATION_TEMP_DIR /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/build/easyCamExample.build/Debug    setenv CONTENTS_FOLDER_PATH easyCamExampleDebug.app/Contents    setenv COPYING_PRESERVES_HFS_DATA NO    setenv COPY_PHASE_STRIP NO    setenv COPY_RESOURCES_FROM_STATIC_FRAMEWORKS YES    setenv CP /bin/cp    setenv CURRENT_ARCH i386    setenv CURRENT_VARIANT normal    setenv DEAD_CODE_STRIPPING YES    setenv DEBUGGING_SYMBOLS YES    setenv DEBUG_INFORMATION_FORMAT dwarf    setenv DEPLOYMENT_LOCATION NO    setenv DEPLOYMENT_POSTPROCESSING NO    setenv DERIVED_FILES_DIR /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/build/easyCamExample.build/Debug/easyCamExample.build/DerivedSources    setenv DERIVED_FILE_DIR /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/build/easyCamExample.build/Debug/easyCamExample.build/DerivedSources    setenv DERIVED_SOURCES_DIR /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/build/easyCamExample.build/Debug/easyCamExample.build/DerivedSources    setenv DEVELOPER_APPLICATIONS_DIR /Developer-old/Applications    setenv DEVELOPER_BIN_DIR /Developer-old/usr/bin    setenv DEVELOPER_DIR /Developer-old    setenv DEVELOPER_FRAMEWORKS_DIR /Developer-old/Library/Frameworks    setenv DEVELOPER_FRAMEWORKS_DIR_QUOTED "\"/Developer-old/Library/Frameworks\""    setenv DEVELOPER_LIBRARY_DIR /Developer-old/Library    setenv DEVELOPER_SDK_DIR /Developer-old/SDKs    setenv DEVELOPER_TOOLS_DIR /Developer-old/Tools    setenv DEVELOPER_USR_DIR /Developer-old/usr    setenv DEVELOPMENT_LANGUAGE English    setenv DOCUMENTATION_FOLDER_PATH easyCamExampleDebug.app/Contents/Resources/English.lproj/Documentation    setenv DO_HEADER_SCANNING_IN_JAM NO    setenv DSTROOT /tmp/easyCamExample.dst    setenv DWARF_DSYM_FILE_NAME easyCamExampleDebug.app.dSYM    setenv DWARF_DSYM_FOLDER_PATH /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/bin/    setenv ENABLE_HEADER_DEPENDENCIES YES    setenv ENABLE_OPENMP_SUPPORT NO    setenv EXCLUDED_INSTALLSRC_SUBDIRECTORY_PATTERNS ".svn .git CVS"    setenv EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES "*.nib *.lproj *.framework *.gch (*) CVS .svn .git *.xcodeproj *.xcode *.pbproj *.pbxproj"    setenv EXECUTABLES_FOLDER_PATH easyCamExampleDebug.app/Contents/Executables    setenv EXECUTABLE_FOLDER_PATH easyCamExampleDebug.app/Contents/MacOS    setenv EXECUTABLE_NAME easyCamExampleDebug    setenv EXECUTABLE_PATH easyCamExampleDebug.app/Contents/MacOS/easyCamExampleDebug    setenv FILE_LIST /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/build/easyCamExample.build/Debug/easyCamExample.build/Objects/LinkFileList    setenv FIXED_FILES_DIR /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/build/easyCamExample.build/Debug/easyCamExample.build/FixedFiles    setenv FRAMEWORKS_FOLDER_PATH easyCamExampleDebug.app/Contents/Frameworks    setenv FRAMEWORK_FLAG_PREFIX -framework    setenv FRAMEWORK_SEARCH_PATHS "\"/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/bin/\"  \"/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/glut/lib/osx\""    setenv FRAMEWORK_SEARCH_PATHS_QUOTED_FOR_TARGET_1 "\"/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/glut/lib/osx\""    setenv FRAMEWORK_VERSION A    setenv FULL_PRODUCT_NAME easyCamExampleDebug.app    setenv GCC3_VERSION 3.3    setenv GCC_AUTO_VECTORIZATION YES    setenv GCC_DYNAMIC_NO_PIC NO    setenv GCC_ENABLE_FIX_AND_CONTINUE YES    setenv GCC_ENABLE_SSE3_EXTENSIONS YES    setenv GCC_ENABLE_SUPPLEMENTAL_SSE3_INSTRUCTIONS YES    setenv GCC_GENERATE_DEBUGGING_SYMBOLS YES    setenv GCC_INLINES_ARE_PRIVATE_EXTERN NO    setenv GCC_MODEL_TUNING G4    setenv GCC_OPTIMIZATION_LEVEL 0    setenv GCC_PFE_FILE_C_DIALECTS "c objective-c c++ objective-c++"    setenv GCC_PRECOMPILE_PREFIX_HEADER YES    setenv GCC_PREFIX_HEADER /System/Library/Frameworks/Carbon.framework/Headers/Carbon.h    setenv GCC_SYMBOLS_PRIVATE_EXTERN NO    setenv GCC_TREAT_IMPLICIT_FUNCTION_DECLARATIONS_AS_ERRORS NO    setenv GCC_TREAT_NONCONFORMANT_CODE_ERRORS_AS_WARNINGS YES    setenv GCC_TREAT_WARNINGS_AS_ERRORS NO    setenv GCC_VERSION 4.2    setenv GCC_WARN_64_TO_32_BIT_CONVERSION NO    setenv GCC_WARN_ABOUT_DEPRECATED_FUNCTIONS YES    setenv GCC_WARN_ABOUT_GLOBAL_CONSTRUCTORS NO    setenv GCC_WARN_ABOUT_INVALID_OFFSETOF_MACRO YES    setenv GCC_WARN_ABOUT_MISSING_FIELD_INITIALIZERS YES    setenv GCC_WARN_ABOUT_MISSING_NEWLINE NO    setenv GCC_WARN_ABOUT_MISSING_PROTOTYPES NO    setenv GCC_WARN_ABOUT_RETURN_TYPE YES    setenv GCC_WARN_ALLOW_INCOMPLETE_PROTOCOL NO    setenv GCC_WARN_CHECK_SWITCH_STATEMENTS NO    setenv GCC_WARN_EFFECTIVE_CPLUSPLUS_VIOLATIONS NO    setenv GCC_WARN_FOUR_CHARACTER_CONSTANTS NO    setenv GCC_WARN_HIDDEN_VIRTUAL_FUNCTIONS YES    setenv GCC_WARN_INHIBIT_ALL_WARNINGS NO    setenv GCC_WARN_INITIALIZER_NOT_FULLY_BRACKETED NO    setenv GCC_WARN_MISSING_PARENTHESES YES    setenv GCC_WARN_MULTIPLE_DEFINITION_TYPES_FOR_SELECTOR YES    setenv GCC_WARN_NON_VIRTUAL_DESTRUCTOR YES    setenv GCC_WARN_PEDANTIC NO    setenv GCC_WARN_PROTOTYPE_CONVERSION YES    setenv GCC_WARN_SHADOW NO    setenv GCC_WARN_SIGN_COMPARE YES    setenv GCC_WARN_STRICT_SELECTOR_MATCH NO    setenv GCC_WARN_UNDECLARED_SELECTOR YES    setenv GCC_WARN_UNINITIALIZED_AUTOS YES    setenv GCC_WARN_UNKNOWN_PRAGMAS YES    setenv GCC_WARN_UNUSED_FUNCTION YES    setenv GCC_WARN_UNUSED_LABEL YES    setenv GCC_WARN_UNUSED_PARAMETER NO    setenv GCC_WARN_UNUSED_VALUE YES    setenv GCC_WARN_UNUSED_VARIABLE YES    setenv GENERATE_MASTER_OBJECT_FILE NO    setenv GENERATE_PKGINFO_FILE YES    setenv GENERATE_PROFILING_CODE NO    setenv GID 20    setenv GROUP staff    setenv HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT YES    setenv HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_ALL_PRODUCT_TYPES YES    setenv HEADERMAP_INCLUDES_NONPUBLIC_NONPRIVATE_HEADERS YES    setenv HEADERMAP_INCLUDES_PROJECT_HEADERS YES    setenv HEADER_SEARCH_PATHS "\"/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/bin//include\" ../../../libs/glew/include ../../../libs/openFrameworks/** ../../../libs/freetype/include/ ../../../libs/freetype/include/freetype2 ../../../libs/poco/include ../../../addons/"    setenv ICONV /usr/bin/iconv    setenv INFOPLIST_EXPAND_BUILD_SETTINGS YES    setenv INFOPLIST_FILE openFrameworks-Info.plist    setenv INFOPLIST_OUTPUT_FORMAT same-as-input    setenv INFOPLIST_PATH easyCamExampleDebug.app/Contents/Info.plist    setenv INFOPLIST_PREPROCESS NO    setenv INFOSTRINGS_PATH easyCamExampleDebug.app/Contents/Resources/English.lproj/InfoPlist.strings    setenv INSTALL_DIR /tmp/easyCamExample.dst/Users/Martial/Applications    setenv INSTALL_GROUP staff    setenv INSTALL_MODE_FLAG u+w,go-w,a+rX    setenv INSTALL_OWNER Martial    setenv INSTALL_PATH /Users/Martial/Applications    setenv INSTALL_ROOT /tmp/easyCamExample.dst    setenv JAVAC_DEFAULT_FLAGS "-J-Xms64m -J-XX:NewSize=4M -J-Dfile.encoding=UTF8"    setenv JAVA_APP_STUB /System/Library/Frameworks/JavaVM.framework/Resources/MacOS/JavaApplicationStub    setenv JAVA_ARCHIVE_CLASSES YES    setenv JAVA_ARCHIVE_TYPE JAR    setenv JAVA_COMPILER /usr/bin/javac    setenv JAVA_FOLDER_PATH easyCamExampleDebug.app/Contents/Resources/Java    setenv JAVA_FRAMEWORK_RESOURCES_DIRS Resources    setenv JAVA_JAR_FLAGS cv    setenv JAVA_SOURCE_SUBDIR .    setenv JAVA_USE_DEPENDENCIES YES    setenv JAVA_ZIP_FLAGS -urg    setenv JIKES_DEFAULT_FLAGS "+E +OLDCSO"    setenv KEEP_PRIVATE_EXTERNS NO    setenv LD_GENERATE_MAP_FILE NO    setenv LD_MAP_FILE_PATH /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/build/easyCamExample.build/Debug/easyCamExample.build/easyCamExampleDebug-LinkMap-normal-i386.txt    setenv LD_OPENMP_FLAGS -fopenmp    setenv LEX /Developer-old/usr/bin/lex    setenv LIBRARY_FLAG_NOSPACE YES    setenv LIBRARY_FLAG_PREFIX -l    setenv LIBRARY_SEARCH_PATHS "\"/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/bin/\"  \"/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/freeimage/lib/osx\" \"/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/FreeImage/lib/osx\" \"/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/glew/lib/osx\" \"/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/GLee/lib/osx\" \"/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/poco/lib/osx\" \"/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/rtAudio/lib/osx\" \"/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../../../glew/glew-1.5.7/lib\" \"/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/glew/lib/osx\" \"/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/glew/libs/osx\"     \"/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/fmodex/lib/osx\" \"/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/freetype/lib/osx\" \"/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/FreeImage/lib/osx\" \"/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/glew/lib/osx\" \"/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../../../glew/glew-1.5.7/lib\" \"/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/glew/lib/osx\" \"/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/glew/libs/osx\""    setenv LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_1 "\"/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/freeimage/lib/osx\""    setenv LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_14 "\"/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/fmodex/lib/osx\""    setenv LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_15 "\"/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/freetype/lib/osx\""    setenv LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_2 "\"/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/FreeImage/lib/osx\""    setenv LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_3 "\"/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/glew/lib/osx\""    setenv LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_4 "\"/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/GLee/lib/osx\""    setenv LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_5 "\"/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/poco/lib/osx\""    setenv LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_6 "\"/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/rtAudio/lib/osx\""    setenv LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_7 "\"/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../../../glew/glew-1.5.7/lib\""    setenv LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_8 "\"/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/glew/lib/osx\""    setenv LIBRARY_SEARCH_PATHS_QUOTED_FOR_TARGET_9 "\"/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/glew/libs/osx\""    setenv LINKER_DISPLAYS_MANGLED_NAMES NO    setenv LINK_FILE_LIST_normal_i386 /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/build/easyCamExample.build/Debug/easyCamExample.build/Objects-normal/i386/easyCamExampleDebug.LinkFileList    setenv LINK_WITH_STANDARD_LIBRARIES YES    setenv LOCALIZED_RESOURCES_FOLDER_PATH easyCamExampleDebug.app/Contents/Resources/English.lproj    setenv LOCAL_ADMIN_APPS_DIR /Applications/Utilities    setenv LOCAL_APPS_DIR /Applications    setenv LOCAL_DEVELOPER_DIR /Library/Developer    setenv LOCAL_LIBRARY_DIR /Library    setenv MACH_O_TYPE mh_execute    setenv MAC_OS_X_VERSION_ACTUAL 1067    setenv MAC_OS_X_VERSION_MAJOR 1060    setenv MAC_OS_X_VERSION_MINOR 0607    setenv NATIVE_ARCH i386    setenv NATIVE_ARCH_32_BIT i386    setenv NATIVE_ARCH_64_BIT x86_64    setenv NATIVE_ARCH_ACTUAL x86_64    setenv NO_COMMON YES    setenv OBJECT_FILE_DIR /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/build/easyCamExample.build/Debug/easyCamExample.build/Objects    setenv OBJECT_FILE_DIR_normal /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/build/easyCamExample.build/Debug/easyCamExample.build/Objects-normal    setenv OBJROOT /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/build    setenv ONLY_ACTIVE_ARCH NO    setenv OPTIMIZATION_LEVEL 0    setenv OS MACOS    setenv OSAC /usr/bin/osacompile    setenv OTHER_CPLUSPLUSFLAGS "-D__MACOSX_CORE__ -lpthread"    setenv PACKAGE_TYPE com.apple.package-type.wrapper.application    setenv PASCAL_STRINGS YES    setenv PATH_PREFIXES_EXCLUDED_FROM_HEADER_DEPENDENCIES "/usr/include /usr/local/include /System/Library/Frameworks /System/Library/PrivateFrameworks /Developer-old/Headers /Developer-old/SDKs /Developer-old/Platforms"    setenv PBDEVELOPMENTPLIST_PATH easyCamExampleDebug.app/Contents/pbdevelopment.plist    setenv PFE_FILE_C_DIALECTS c++    setenv PKGINFO_FILE_PATH /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/build/easyCamExample.build/Debug/easyCamExample.build/PkgInfo    setenv PKGINFO_PATH easyCamExampleDebug.app/Contents/PkgInfo    setenv PLATFORM_DEVELOPER_APPLICATIONS_DIR /Developer-old/Applications    setenv PLATFORM_DEVELOPER_BIN_DIR /Developer-old/usr/bin    setenv PLATFORM_DEVELOPER_LIBRARY_DIR /Developer-old/Library    setenv PLATFORM_DEVELOPER_SDK_DIR /Developer-old/SDKs    setenv PLATFORM_DEVELOPER_TOOLS_DIR /Developer-old/Tools    setenv PLATFORM_DEVELOPER_USR_DIR /Developer-old/usr    setenv PLATFORM_NAME macosx    setenv PLATFORM_PRODUCT_BUILD_VERSION 10M2423    setenv PLIST_FILE_OUTPUT_FORMAT same-as-input    setenv PLUGINS_FOLDER_PATH easyCamExampleDebug.app/Contents/PlugIns    setenv PREBINDING NO    setenv PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR YES    setenv PRECOMP_DESTINATION_DIR /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/build/easyCamExample.build/Debug/easyCamExample.build/PrefixHeaders    setenv PRESERVE_DEAD_CODE_INITS_AND_TERMS NO    setenv PRIVATE_HEADERS_FOLDER_PATH easyCamExampleDebug.app/Contents/PrivateHeaders    setenv PRODUCT_NAME easyCamExampleDebug    setenv PRODUCT_SETTINGS_PATH /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/openFrameworks-Info.plist    setenv PRODUCT_TYPE com.apple.product-type.application    setenv PROFILING_CODE NO    setenv PROJECT easyCamExample    setenv PROJECT_DERIVED_FILE_DIR /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/build/easyCamExample.build/DerivedSources    setenv PROJECT_DIR /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample    setenv PROJECT_FILE_PATH /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/easyCamExample.xcodeproj    setenv PROJECT_NAME easyCamExample    setenv PROJECT_TEMP_DIR /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/build/easyCamExample.build    setenv PUBLIC_HEADERS_FOLDER_PATH easyCamExampleDebug.app/Contents/Headers    setenv RECURSIVE_SEARCH_PATHS_FOLLOW_SYMLINKS YES    setenv REMOVE_CVS_FROM_RESOURCES YES    setenv REMOVE_GIT_FROM_RESOURCES YES    setenv REMOVE_SVN_FROM_RESOURCES YES    setenv REZ_COLLECTOR_DIR /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/build/easyCamExample.build/Debug/easyCamExample.build/ResourceManagerResources    setenv REZ_OBJECTS_DIR /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/build/easyCamExample.build/Debug/easyCamExample.build/ResourceManagerResources/Objects    setenv REZ_SEARCH_PATHS "\"/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/bin/\" "    setenv RUN_CLANG_STATIC_ANALYZER NO    setenv SCAN_ALL_SOURCE_FILES_FOR_INCLUDES NO    setenv SCRIPTS_FOLDER_PATH easyCamExampleDebug.app/Contents/Resources/Scripts    setenv SCRIPT_INPUT_FILE_COUNT 0    setenv SCRIPT_OUTPUT_FILE_COUNT 0    setenv SDKROOT     setenv SED /usr/bin/sed    setenv SEPARATE_STRIP NO    setenv SEPARATE_SYMBOL_EDIT NO    setenv SET_DIR_MODE_OWNER_GROUP YES    setenv SET_FILE_MODE_OWNER_GROUP NO    setenv SHARED_DERIVED_FILE_DIR /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/bin//DerivedSources    setenv SHARED_FRAMEWORKS_FOLDER_PATH easyCamExampleDebug.app/Contents/SharedFrameworks    setenv SHARED_PRECOMPS_DIR /var/folders/tX/tXvC9lCoFsGsNVKB4K3ixE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders    setenv SHARED_SUPPORT_FOLDER_PATH easyCamExampleDebug.app/Contents/SharedSupport    setenv SKIP_INSTALL NO    setenv SOURCE_ROOT /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample    setenv SRCROOT /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample    setenv STANDARD_C_PLUS_PLUS_LIBRARY_TYPE dynamic    setenv STRINGS_FILE_OUTPUT_ENCODING UTF-16    setenv STRIP_INSTALLED_PRODUCT YES    setenv STRIP_STYLE all    setenv SYMBOL_REPOSITORY_DIR /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/build/easyCamExample.build/Debug/easyCamExample.build/SymbolRepositories    setenv SYMROOT /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/build    setenv SYSTEM_ADMIN_APPS_DIR /Applications/Utilities    setenv SYSTEM_APPS_DIR /Applications    setenv SYSTEM_CORE_SERVICES_DIR /System/Library/CoreServices    setenv SYSTEM_DEMOS_DIR /Applications/Extras    setenv SYSTEM_DEVELOPER_APPS_DIR /Developer-old/Applications    setenv SYSTEM_DEVELOPER_BIN_DIR /Developer-old/usr/bin    setenv SYSTEM_DEVELOPER_DEMOS_DIR "/Developer-old/Applications/Utilities/Built Examples"    setenv SYSTEM_DEVELOPER_DIR /Developer-old    setenv SYSTEM_DEVELOPER_DOC_DIR "/Developer-old/ADC Reference Library"    setenv SYSTEM_DEVELOPER_GRAPHICS_TOOLS_DIR "/Developer-old/Applications/Graphics Tools"    setenv SYSTEM_DEVELOPER_JAVA_TOOLS_DIR "/Developer-old/Applications/Java Tools"    setenv SYSTEM_DEVELOPER_PERFORMANCE_TOOLS_DIR "/Developer-old/Applications/Performance Tools"    setenv SYSTEM_DEVELOPER_RELEASENOTES_DIR "/Developer-old/ADC Reference Library/releasenotes"    setenv SYSTEM_DEVELOPER_TOOLS /Developer-old/Tools    setenv SYSTEM_DEVELOPER_TOOLS_DOC_DIR "/Developer-old/ADC Reference Library/documentation/DeveloperTools"    setenv SYSTEM_DEVELOPER_TOOLS_RELEASENOTES_DIR "/Developer-old/ADC Reference Library/releasenotes/DeveloperTools"    setenv SYSTEM_DEVELOPER_USR_DIR /Developer-old/usr    setenv SYSTEM_DEVELOPER_UTILITIES_DIR /Developer-old/Applications/Utilities    setenv SYSTEM_DOCUMENTATION_DIR /Library/Documentation    setenv SYSTEM_LIBRARY_DIR /System/Library    setenv TARGETNAME easyCamExample    setenv TARGET_BUILD_DIR /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/bin/    setenv TARGET_NAME easyCamExample    setenv TARGET_TEMP_DIR /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/build/easyCamExample.build/Debug/easyCamExample.build    setenv TEMP_DIR /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/build/easyCamExample.build/Debug/easyCamExample.build    setenv TEMP_FILES_DIR /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/build/easyCamExample.build/Debug/easyCamExample.build    setenv TEMP_FILE_DIR /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/build/easyCamExample.build/Debug/easyCamExample.build    setenv TEMP_ROOT /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/build    setenv UID 501    setenv UNLOCALIZED_RESOURCES_FOLDER_PATH easyCamExampleDebug.app/Contents/Resources    setenv UNSTRIPPED_PRODUCT NO    setenv USER Martial    setenv USER_APPS_DIR /Users/Martial/Applications    setenv USER_LIBRARY_DIR /Users/Martial/Library    setenv USE_DYNAMIC_NO_PIC YES    setenv USE_HEADERMAP YES    setenv USE_HEADER_SYMLINKS NO    setenv VALIDATE_PRODUCT NO    setenv VALID_ARCHS "i386 ppc ppc64 ppc7400 ppc970 x86_64"    setenv VERBOSE_PBXCP NO    setenv VERSIONPLIST_PATH easyCamExampleDebug.app/Contents/version.plist    setenv VERSION_INFO_BUILDER Martial    setenv VERSION_INFO_FILE easyCamExampleDebug_vers.c    setenv VERSION_INFO_STRING "\"@(#)PROGRAM:easyCamExampleDebug  PROJECT:easyCamExample-\""    setenv WRAPPER_EXTENSION app    setenv WRAPPER_NAME easyCamExampleDebug.app    setenv WRAPPER_SUFFIX .app    setenv XCODE_APP_SUPPORT_DIR /Developer-old/Library/Xcode    setenv XCODE_PRODUCT_BUILD_VERSION 10M2423    setenv XCODE_VERSION_ACTUAL 0325    setenv XCODE_VERSION_MAJOR 0300    setenv XCODE_VERSION_MINOR 0320    setenv YACC /Developer-old/usr/bin/yacc    setenv ZERO_LINK NO    /bin/sh -c /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/build/easyCamExample.build/Debug/easyCamExample.build/Script-E4B6FFFD0C3F9AB9008CF71C.sh0#
+
+CProcessInfoPlistFile /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/bin//easyCamExampleDebug.app/Contents/Info.plist openFrameworks-Info.plist
+s325506494.074277
+e325506494.089969
+r1
+xProcessInfoPlistFile
+x/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/bin//easyCamExampleDebug.app/Contents/Info.plist
+xopenFrameworks-Info.plist
+lSLF07#2@33"Process openFrameworks-Info.plist325506494#325506494#0(0"0(0#0#111"/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/openFrameworks-Info.plist28710920075673648#468"    cd /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample    builtin-infoPlistUtility openFrameworks-Info.plist -genpkginfo /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/bin//easyCamExampleDebug.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/bin//easyCamExampleDebug.app/Contents/Info.plist0#
+
+CProcessPCH++ /var/folders/tX/tXvC9lCoFsGsNVKB4K3ixE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-bxjmnftxvqnrlmbhxkkztiudyyyk/Carbon.h.gch /System/Library/Frameworks/Carbon.framework/Headers/Carbon.h normal i386 c++ com.apple.compilers.gcc.4_2
+s325506494.090302
+e325506502.125143
+r1
+xProcessPCH++
+x/var/folders/tX/tXvC9lCoFsGsNVKB4K3ixE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-bxjmnftxvqnrlmbhxkkztiudyyyk/Carbon.h.gch
+x/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+occ1plus: warning: -Wuninitialized is not supported without -O
+oi686-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done
+lSLF07#2@71"Precompile /System/Library/Frameworks/Carbon.framework/Headers/Carbon.h325506494#325506502#0(154"cc1plus: warning: -Wuninitialized is not supported without -Oi686-apple-darwin10-gcc-4.2.1: -lpthread: linker input file unused because linking not done1(22@43"-Wuninitialized is not supported without -O325506494#0#62#0(6@0"325506494#0#0#0#0#0"0(0#0#60"/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h8601598912#2185"    cd /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample    setenv LANG en_US.US-ASCII    /Developer-old/usr/bin/gcc-4.2 -x c++-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wmissing-field-initializers -fpermissive -Wreturn-type -Wnon-virtual-dtor -Woverloaded-virtual -Wparentheses -Wunused-function -Wunused-label -Wunused-variable -Wunused-value -Wuninitialized -Wunknown-pragmas -Wsign-compare -Wconversion -mfix-and-continue -ftree-vectorize -msse3 -mssse3 -gdwarf-2 -I/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/build/easyCamExample.build/Debug/easyCamExample.build/easyCamExampleDebug.hmap -F/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/bin -F/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/../../../libs/glut/lib/osx -I/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/bin/include -I../../../libs/glew/include -I../../../libs/openFrameworks -I../../../libs/openFrameworks/3d -I../../../libs/openFrameworks/app -I../../../libs/openFrameworks/communication -I../../../libs/openFrameworks/events -I../../../libs/openFrameworks/gl -I../../../libs/openFrameworks/graphics -I../../../libs/openFrameworks/math -I../../../libs/openFrameworks/sound -I../../../libs/openFrameworks/types -I../../../libs/openFrameworks/utils -I../../../libs/openFrameworks/video -I../../../libs/freetype/include -I../../../libs/freetype/include/freetype2 -I../../../libs/poco/include -I../../../addons -I/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/build/easyCamExample.build/Debug/easyCamExample.build/DerivedSources/i386 -I/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/build/easyCamExample.build/Debug/easyCamExample.build/DerivedSources -D__MACOSX_CORE__ -lpthread -c /System/Library/Frameworks/Carbon.framework/Headers/Carbon.h -o /var/folders/tX/tXvC9lCoFsGsNVKB4K3ixE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Carbon-bxjmnftxvqnrlmbhxkkztiudyyyk/Carbon.h.gch0#
+
+CTouch /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/bin//easyCamExampleDebug.app
+s325506509.163283
+e325506509.203374
+r1
+xTouch
+x/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/bin//easyCamExampleDebug.app
+lSLF07#2@120"Touch /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/bin//easyCamExampleDebug.app325506509#325506509#0(0"0(0#0#0"8606399168#230"    cd /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample    /usr/bin/touch -c /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/examples/easyCamExample/bin//easyCamExampleDebug.app0#
+

@@ -1,0 +1,193 @@
+cc1plus: warning: -Wuninitialized is not supported without -O
+In file included from ../../../libs/openFrameworks/ofMain.h:14,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/ofxTubeManager.h:13,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/ofxTubeManager.cpp:10:
+../../../libs/openFrameworks/types/ofBaseTypes.h:98: warning: 'class ofBaseSoundInput' has virtual functions but non-virtual destructor
+../../../libs/openFrameworks/types/ofBaseTypes.h:115: warning: 'class ofBaseSoundOutput' has virtual functions but non-virtual destructor
+In file included from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxTween/src/ofxTween.h:6,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/ofxTube.h:16,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/ofxTubeManager.h:14,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/ofxTubeManager.cpp:10:
+/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxTween/src/Easings/ofxEasing.h:15: warning: 'class ofxEasing' has virtual functions but non-virtual destructor
+In file included from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxTween/src/ofxTween.h:81,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/ofxTube.h:16,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/ofxTubeManager.h:14,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/ofxTubeManager.cpp:10:
+/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxTween/src/Easings/ofxEasingBounce.h:5: warning: 'class ofxEasingBounce' has virtual functions but non-virtual destructor
+In file included from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxTween/src/ofxTween.h:82,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/ofxTube.h:16,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/ofxTubeManager.h:14,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/ofxTubeManager.cpp:10:
+/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxTween/src/Easings/ofxEasingCubic.h:4: warning: 'class ofxEasingCubic' has virtual functions but non-virtual destructor
+In file included from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxTween/src/ofxTween.h:83,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/ofxTube.h:16,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/ofxTubeManager.h:14,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/ofxTubeManager.cpp:10:
+/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxTween/src/Easings/ofxEasingElastic.h:10: warning: 'class ofxEasingElastic' has virtual functions but non-virtual destructor
+In file included from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxTween/src/ofxTween.h:84,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/ofxTube.h:16,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/ofxTubeManager.h:14,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/ofxTubeManager.cpp:10:
+/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxTween/src/Easings/ofxEasingLinear.h:5: warning: 'class ofxEasingLinear' has virtual functions but non-virtual destructor
+In file included from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxTween/src/ofxTween.h:85,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/ofxTube.h:16,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/ofxTubeManager.h:14,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/ofxTubeManager.cpp:10:
+/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxTween/src/Easings/ofxEasingQuart.h:4: warning: 'class ofxEasingQuart' has virtual functions but non-virtual destructor
+In file included from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxTween/src/ofxTween.h:86,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/ofxTube.h:16,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/ofxTubeManager.h:14,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/ofxTubeManager.cpp:10:
+/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxTween/src/Easings/ofxEasingBack.h:5: warning: 'class ofxEasingBack' has virtual functions but non-virtual destructor
+In file included from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxTween/src/ofxTween.h:87,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/ofxTube.h:16,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/ofxTubeManager.h:14,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/ofxTubeManager.cpp:10:
+/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxTween/src/Easings/ofxEasingCirc.h:6: warning: 'class ofxEasingCirc' has virtual functions but non-virtual destructor
+In file included from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxTween/src/ofxTween.h:88,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/ofxTube.h:16,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/ofxTubeManager.h:14,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/ofxTubeManager.cpp:10:
+/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxTween/src/Easings/ofxEasingExpo.h:6: warning: 'class ofxEasingExpo' has virtual functions but non-virtual destructor
+In file included from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxTween/src/ofxTween.h:89,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/ofxTube.h:16,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/ofxTubeManager.h:14,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/ofxTubeManager.cpp:10:
+/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxTween/src/Easings/ofxEasingQuad.h:4: warning: 'class ofxEasingQuad' has virtual functions but non-virtual destructor
+In file included from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxTween/src/ofxTween.h:90,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/ofxTube.h:16,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/ofxTubeManager.h:14,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/ofxTubeManager.cpp:10:
+/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxTween/src/Easings/ofxEasingQuint.h:4: warning: 'class ofxEasingQuint' has virtual functions but non-virtual destructor
+In file included from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxTween/src/ofxTween.h:91,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/ofxTube.h:16,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/ofxTubeManager.h:14,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/ofxTubeManager.cpp:10:
+/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxTween/src/Easings/ofxEasingSine.h:10: warning: 'class ofxEasingSine' has virtual functions but non-virtual destructor
+In file included from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/fft/ofxSoundManager.h:19,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/ofxTubeManager.h:15,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/ofxTubeManager.cpp:10:
+/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxSimpleGuiToo/src/Controls/ofxSimpleGuiSliderBase.h: In instantiation of 'ofxSimpleGuiSliderBase<int>':
+/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxSimpleGuiToo/src/Controls/ofxSimpleGuiSliderInt.h:8:   instantiated from here
+/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxSimpleGuiToo/src/ofxSimpleGuiControl.h:73: warning: 'virtual void ofxSimpleGuiControl::draw()' was hidden
+/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxSimpleGuiToo/src/Controls/ofxSimpleGuiSliderBase.h:161: warning:   by 'void ofxSimpleGuiSliderBase<Type>::draw(float, float) [with Type = int]'
+In file included from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/fft/ofxSoundManager.h:20,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/ofxTubeManager.h:15,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/ofxTubeManager.cpp:10:
+/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxSimpleGuiToo/src/Controls/ofxSimpleGuiSliderBase.h: In instantiation of 'ofxSimpleGuiSliderBase<float>':
+/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxSimpleGuiToo/src/Controls/ofxSimpleGuiSliderFloat.h:8:   instantiated from here
+/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxSimpleGuiToo/src/ofxSimpleGuiControl.h:73: warning: 'virtual void ofxSimpleGuiControl::draw()' was hidden
+/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxSimpleGuiToo/src/Controls/ofxSimpleGuiSliderBase.h:161: warning:   by 'void ofxSimpleGuiSliderBase<Type>::draw(float, float) [with Type = float]'
+In file included from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/TubeAnimationManager.h:14,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/ofxTubeManager.h:20,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/ofxTubeManager.cpp:10:
+/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/AbstractTubeAnimation.h:18: warning: 'class AbstractTubeAnimation' has virtual functions but non-virtual destructor
+In file included from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/guiPanel.h:16,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/ofxTubeManager.h:21,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/ofxTubeManager.cpp:10:
+/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxSimpleGuiToo/src/ofxSimpleGuiControl.h:73: warning: 'virtual void ofxSimpleGuiControl::draw()' was hidden
+/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxSimpleGuiToo/src/Controls/ofxPalettePicker.h:29: warning:   by 'virtual void ofxPalettePicker::draw(float, float)'
+In file included from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxSimpleGuiToo/src/ofxSimpleGuiIncludes.h:39,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxSimpleGuiToo/src/ofxSimpleGuiPage.h:39,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxSimpleGuiToo/src/ofxSimpleGuiIncludes.h:37,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxSimpleGuiToo/src/ofxSimpleGuiToo.h:41,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/ofxTubeManager.cpp:12:
+/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxSimpleGuiToo/src/ofxSimpleGuiControl.h:73: warning: 'virtual void ofxSimpleGuiControl::draw()' was hidden
+/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxSimpleGuiToo/src/Controls/ofxSimpleGuiButton.h:26: warning:   by 'virtual void ofxSimpleGuiButton::draw(float, float)'
+In file included from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxSimpleGuiToo/src/ofxSimpleGuiIncludes.h:40,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxSimpleGuiToo/src/ofxSimpleGuiPage.h:39,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxSimpleGuiToo/src/ofxSimpleGuiIncludes.h:37,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxSimpleGuiToo/src/ofxSimpleGuiToo.h:41,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/ofxTubeManager.cpp:12:
+/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxSimpleGuiToo/src/ofxSimpleGuiControl.h:73: warning: 'virtual void ofxSimpleGuiControl::draw()' was hidden
+/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxSimpleGuiToo/src/Controls/ofxSimpleGuiContent.h:14: warning:   by 'virtual void ofxSimpleGuiContent::draw(float, float)'
+In file included from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxSimpleGuiToo/src/ofxSimpleGuiIncludes.h:41,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxSimpleGuiToo/src/ofxSimpleGuiPage.h:39,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxSimpleGuiToo/src/ofxSimpleGuiIncludes.h:37,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxSimpleGuiToo/src/ofxSimpleGuiToo.h:41,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/ofxTubeManager.cpp:12:
+/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxSimpleGuiToo/src/ofxSimpleGuiControl.h:73: warning: 'virtual void ofxSimpleGuiControl::draw()' was hidden
+/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxSimpleGuiToo/src/Controls/ofxSimpleGuiFPSCounter.h:9: warning:   by 'virtual void ofxSimpleGuiFPSCounter::draw(float, float)'
+In file included from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxSimpleGuiToo/src/ofxSimpleGuiIncludes.h:42,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxSimpleGuiToo/src/ofxSimpleGuiPage.h:39,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxSimpleGuiToo/src/ofxSimpleGuiIncludes.h:37,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxSimpleGuiToo/src/ofxSimpleGuiToo.h:41,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/ofxTubeManager.cpp:12:
+/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxSimpleGuiToo/src/ofxSimpleGuiControl.h:73: warning: 'virtual void ofxSimpleGuiControl::draw()' was hidden
+/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxSimpleGuiToo/src/Controls/ofxSimpleGuiQuadWarp.h:26: warning:   by 'virtual void ofxSimpleGuiQuadWarp::draw(float, float)'
+In file included from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxSimpleGuiToo/src/ofxSimpleGuiIncludes.h:45,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxSimpleGuiToo/src/ofxSimpleGuiPage.h:39,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxSimpleGuiToo/src/ofxSimpleGuiIncludes.h:37,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxSimpleGuiToo/src/ofxSimpleGuiToo.h:41,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/ofxTubeManager.cpp:12:
+/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxSimpleGuiToo/src/ofxSimpleGuiControl.h:90: warning: 'virtual void ofxSimpleGuiControl::onRelease(int, int, int)' was hidden
+/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxSimpleGuiToo/src/Controls/ofxSimpleGuiSlider2d.h:21: warning:   by 'void ofxSimpleGuiSlider2d::onRelease()'
+/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxSimpleGuiToo/src/ofxSimpleGuiControl.h:73: warning: 'virtual void ofxSimpleGuiControl::draw()' was hidden
+/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxSimpleGuiToo/src/Controls/ofxSimpleGuiSlider2d.h:23: warning:   by 'virtual void ofxSimpleGuiSlider2d::draw(float, float)'
+In file included from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxSimpleGuiToo/src/ofxSimpleGuiIncludes.h:47,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxSimpleGuiToo/src/ofxSimpleGuiPage.h:39,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxSimpleGuiToo/src/ofxSimpleGuiIncludes.h:37,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxSimpleGuiToo/src/ofxSimpleGuiToo.h:41,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/ofxTubeManager.cpp:12:
+/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxSimpleGuiToo/src/ofxSimpleGuiControl.h:73: warning: 'virtual void ofxSimpleGuiControl::draw()' was hidden
+/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxSimpleGuiToo/src/Controls/ofxSimpleGuiToggle.h:26: warning:   by 'virtual void ofxSimpleGuiToggle::draw(float, float)'
+In file included from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxSimpleGuiToo/src/ofxSimpleGuiIncludes.h:48,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxSimpleGuiToo/src/ofxSimpleGuiPage.h:39,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxSimpleGuiToo/src/ofxSimpleGuiIncludes.h:37,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxSimpleGuiToo/src/ofxSimpleGuiToo.h:41,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/ofxTubeManager.cpp:12:
+/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxSimpleGuiToo/src/ofxSimpleGuiControl.h:73: warning: 'virtual void ofxSimpleGuiControl::draw()' was hidden
+/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxSimpleGuiToo/src/Controls/ofxSimpleGuiTitle.h:23: warning:   by 'virtual void ofxSimpleGuiTitle::draw(float, float)'
+In file included from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxSimpleGuiToo/src/ofxSimpleGuiIncludes.h:49,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxSimpleGuiToo/src/ofxSimpleGuiPage.h:39,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxSimpleGuiToo/src/ofxSimpleGuiIncludes.h:37,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxSimpleGuiToo/src/ofxSimpleGuiToo.h:41,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/ofxTubeManager.cpp:12:
+/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxSimpleGuiToo/src/ofxSimpleGuiControl.h:73: warning: 'virtual void ofxSimpleGuiControl::draw()' was hidden
+/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxSimpleGuiToo/src/Controls/ofxSimpleGuiColorPicker.h:26: warning:   by 'virtual void ofxSimpleGuiColorPicker::draw(float, float)'
+In file included from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxSimpleGuiToo/src/ofxSimpleGuiIncludes.h:50,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxSimpleGuiToo/src/ofxSimpleGuiPage.h:39,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxSimpleGuiToo/src/ofxSimpleGuiIncludes.h:37,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxSimpleGuiToo/src/ofxSimpleGuiToo.h:41,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/ofxTubeManager.cpp:12:
+/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxSimpleGuiToo/src/ofxSimpleGuiControl.h:73: warning: 'virtual void ofxSimpleGuiControl::draw()' was hidden
+/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxSimpleGuiToo/src/Controls/ofxSimpleGuiComboBox.h:31: warning:   by 'virtual void ofxSimpleGuiComboBox::draw(float, float)'
+In file included from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxSimpleGuiToo/src/ofxSimpleGuiIncludes.h:52,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxSimpleGuiToo/src/ofxSimpleGuiPage.h:39,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxSimpleGuiToo/src/ofxSimpleGuiIncludes.h:37,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxSimpleGuiToo/src/ofxSimpleGuiToo.h:41,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/ofxTubeManager.cpp:12:
+/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxSimpleGuiToo/src/ofxSimpleGuiControl.h:73: warning: 'virtual void ofxSimpleGuiControl::draw()' was hidden
+/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxSimpleGuiToo/src/Controls/ofxSimpleFboContent.h:14: warning:   by 'virtual void ofxSimpleFboContent::draw(float, float)'
+In file included from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxSimpleGuiToo/src/ofxSimpleGuiIncludes.h:37,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxSimpleGuiToo/src/ofxSimpleGuiToo.h:41,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/ofxTubeManager.cpp:12:
+/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxMSAInteractiveObject/src/ofxMSAInteractiveObject.h:76: warning: 'virtual void ofxMSAInteractiveObject::update()' was hidden
+/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxSimpleGuiToo/src/ofxSimpleGuiPage.h:74: warning:   by 'void ofxSimpleGuiPage::update(ofEventArgs&)'
+/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxSimpleGuiToo/src/ofxSimpleGuiControl.h:93: warning: 'virtual void ofxSimpleGuiControl::keyPressed(int)' was hidden
+/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxSimpleGuiToo/src/ofxSimpleGuiPage.h:83: warning:   by 'void ofxSimpleGuiPage::keyPressed(ofKeyEventArgs&)'
+/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxSimpleGuiToo/src/ofxSimpleGuiControl.h:94: warning: 'virtual void ofxSimpleGuiControl::keyReleased(int)' was hidden
+/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxSimpleGuiToo/src/ofxSimpleGuiPage.h:84: warning:   by 'void ofxSimpleGuiPage::keyReleased(ofKeyEventArgs&)'
+/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxSimpleGuiToo/src/ofxSimpleGuiControl.h:67: warning: 'virtual void ofxSimpleGuiControl::loadFromXML(ofxXmlSettings&)' was hidden
+/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxSimpleGuiToo/src/ofxSimpleGuiPage.h:49: warning:   by 'void ofxSimpleGuiPage::loadFromXML()'
+/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxSimpleGuiToo/src/ofxSimpleGuiControl.h:68: warning: 'virtual void ofxSimpleGuiControl::saveToXML(ofxXmlSettings&)' was hidden
+/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxSimpleGuiToo/src/ofxSimpleGuiPage.h:50: warning:   by 'void ofxSimpleGuiPage::saveToXML()'
+/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxSimpleGuiToo/src/ofxSimpleGuiControl.h:72: warning: 'virtual void ofxSimpleGuiControl::draw(float, float)' was hidden
+/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxSimpleGuiToo/src/ofxSimpleGuiPage.h:46: warning:   by 'void ofxSimpleGuiPage::draw(float, float, bool)'
+/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxSimpleGuiToo/src/ofxSimpleGuiControl.h:73: warning: 'virtual void ofxSimpleGuiControl::draw()' was hidden
+/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxSimpleGuiToo/src/ofxSimpleGuiPage.h:46: warning:   by 'void ofxSimpleGuiPage::draw(float, float, bool)'
+/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/ofxTubeManager.cpp: In member function 'void ofxTubeManager::resetTubesState()':
+/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/ofxTubeManager.cpp:118: error: 'class ofxTube' has no member named 'reset'
+/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxSimpleGuiToo/src/Controls/ofxSimpleGuiSliderBase.h: In member function 'void ofxSimpleGuiSliderBase<Type>::increase() [with Type = int]':
+/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxSimpleGuiToo/src/Controls/ofxSimpleGuiSliderBase.h:133:   instantiated from 'void ofxSimpleGuiSliderBase<Type>::onKeyUp() [with Type = int]'
+/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/ofxTubeManager.cpp:151:   instantiated from here
+/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxSimpleGuiToo/src/Controls/ofxSimpleGuiSliderBase.h:83: warning: passing 'double' for argument 1 to 'void ofxSimpleGuiSliderBase<Type>::setIncrement(Type) [with Type = int]'
+/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxSimpleGuiToo/src/Controls/ofxSimpleGuiSliderBase.h: In member function 'void ofxSimpleGuiSliderBase<Type>::decrease() [with Type = int]':
+/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxSimpleGuiToo/src/Controls/ofxSimpleGuiSliderBase.h:137:   instantiated from 'void ofxSimpleGuiSliderBase<Type>::onKeyDown() [with Type = int]'
+/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/ofxTubeManager.cpp:151:   instantiated from here
+/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxSimpleGuiToo/src/Controls/ofxSimpleGuiSliderBase.h:89: warning: passing 'double' for argument 1 to 'void ofxSimpleGuiSliderBase<Type>::setIncrement(Type) [with Type = int]'
+/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxSimpleGuiToo/src/Controls/ofxSimpleGuiSliderBase.h: In member function 'void ofxSimpleGuiSliderBase<Type>::setTargetValue(Type) [with Type = int]':
+/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxSimpleGuiToo/src/Controls/ofxSimpleGuiSliderBase.h:73:   instantiated from 'void ofxSimpleGuiSliderBase<Type>::setValue(Type) [with Type = int]'
+/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxSimpleGuiToo/src/Controls/ofxSimpleGuiSliderBase.h:44:   instantiated from 'void ofxSimpleGuiSliderBase<Type>::loadFromXML(ofxXmlSettings&) [with Type = int]'
+/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/ofxTubeManager.cpp:151:   instantiated from here
+/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxSimpleGuiToo/src/Controls/ofxSimpleGuiSliderBase.h:78: warning: converting to 'int' from 'float'

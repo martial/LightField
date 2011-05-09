@@ -1,0 +1,69 @@
+In file included from ../../../libs/openFrameworks/ofMain.h:14,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/AbstractTubeAnimation.h:13,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/AbstractTubeAnimation.cpp:9:
+../../../libs/openFrameworks/types/ofBaseTypes.h:98: warning: 'class ofBaseSoundInput' has virtual functions but non-virtual destructor
+../../../libs/openFrameworks/types/ofBaseTypes.h:115: warning: 'class ofBaseSoundOutput' has virtual functions but non-virtual destructor
+In file included from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxTween/src/ofxTween.h:6,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/ofxTube.h:16,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/AbstractTubeAnimation.h:14,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/AbstractTubeAnimation.cpp:9:
+/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxTween/src/Easings/ofxEasing.h:15: warning: 'class ofxEasing' has virtual functions but non-virtual destructor
+In file included from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxTween/src/ofxTween.h:81,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/ofxTube.h:16,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/AbstractTubeAnimation.h:14,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/AbstractTubeAnimation.cpp:9:
+/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxTween/src/Easings/ofxEasingBounce.h:5: warning: 'class ofxEasingBounce' has virtual functions but non-virtual destructor
+In file included from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxTween/src/ofxTween.h:82,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/ofxTube.h:16,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/AbstractTubeAnimation.h:14,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/AbstractTubeAnimation.cpp:9:
+/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxTween/src/Easings/ofxEasingCubic.h:4: warning: 'class ofxEasingCubic' has virtual functions but non-virtual destructor
+In file included from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxTween/src/ofxTween.h:83,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/ofxTube.h:16,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/AbstractTubeAnimation.h:14,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/AbstractTubeAnimation.cpp:9:
+/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxTween/src/Easings/ofxEasingElastic.h:10: warning: 'class ofxEasingElastic' has virtual functions but non-virtual destructor
+In file included from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxTween/src/ofxTween.h:84,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/ofxTube.h:16,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/AbstractTubeAnimation.h:14,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/AbstractTubeAnimation.cpp:9:
+/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxTween/src/Easings/ofxEasingLinear.h:5: warning: 'class ofxEasingLinear' has virtual functions but non-virtual destructor
+In file included from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxTween/src/ofxTween.h:85,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/ofxTube.h:16,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/AbstractTubeAnimation.h:14,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/AbstractTubeAnimation.cpp:9:
+/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxTween/src/Easings/ofxEasingQuart.h:4: warning: 'class ofxEasingQuart' has virtual functions but non-virtual destructor
+In file included from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxTween/src/ofxTween.h:86,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/ofxTube.h:16,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/AbstractTubeAnimation.h:14,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/AbstractTubeAnimation.cpp:9:
+/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxTween/src/Easings/ofxEasingBack.h:5: warning: 'class ofxEasingBack' has virtual functions but non-virtual destructor
+In file included from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxTween/src/ofxTween.h:87,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/ofxTube.h:16,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/AbstractTubeAnimation.h:14,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/AbstractTubeAnimation.cpp:9:
+/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxTween/src/Easings/ofxEasingCirc.h:6: warning: 'class ofxEasingCirc' has virtual functions but non-virtual destructor
+In file included from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxTween/src/ofxTween.h:88,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/ofxTube.h:16,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/AbstractTubeAnimation.h:14,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/AbstractTubeAnimation.cpp:9:
+/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxTween/src/Easings/ofxEasingExpo.h:6: warning: 'class ofxEasingExpo' has virtual functions but non-virtual destructor
+In file included from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxTween/src/ofxTween.h:89,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/ofxTube.h:16,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/AbstractTubeAnimation.h:14,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/AbstractTubeAnimation.cpp:9:
+/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxTween/src/Easings/ofxEasingQuad.h:4: warning: 'class ofxEasingQuad' has virtual functions but non-virtual destructor
+In file included from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxTween/src/ofxTween.h:90,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/ofxTube.h:16,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/AbstractTubeAnimation.h:14,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/AbstractTubeAnimation.cpp:9:
+/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxTween/src/Easings/ofxEasingQuint.h:4: warning: 'class ofxEasingQuint' has virtual functions but non-virtual destructor
+In file included from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxTween/src/ofxTween.h:91,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/ofxTube.h:16,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/AbstractTubeAnimation.h:14,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/AbstractTubeAnimation.cpp:9:
+/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/../../../addons/ofxTween/src/Easings/ofxEasingSine.h:10: warning: 'class ofxEasingSine' has virtual functions but non-virtual destructor
+In file included from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/AbstractTubeAnimation.cpp:9:
+/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/AbstractTubeAnimation.h:18: warning: 'class AbstractTubeAnimation' has virtual functions but non-virtual destructor
+/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/AbstractTubeAnimation.cpp: In member function 'virtual void AbstractTubeAnimation::init(std::string, std::vector<ofxTube*, std::allocator<ofxTube*> >*)':
+/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/AbstractTubeAnimation.cpp:21: error: 'class AbstractTubeAnimation' has no member named 'name'

@@ -1,0 +1,7 @@
+cc1plus: warning: -Wuninitialized is not supported without -O
+In file included from ../../../libs/openFrameworks/ofMain.h:14,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/mainSettings.h:13,
+                 from /Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/mainSettings.cpp:10:
+../../../libs/openFrameworks/types/ofBaseTypes.h:98: warning: 'class ofBaseSoundInput' has virtual functions but non-virtual destructor
+../../../libs/openFrameworks/types/ofBaseTypes.h:115: warning: 'class ofBaseSoundOutput' has virtual functions but non-virtual destructor
+/Users/Martial/Git/openframeworks-openFrameworks-047525a/apps/NS_2011/LIGHTFIELD/src/mainSettings.cpp:37: error: no 'int mainSettings::getNumOfTubePixels()' member function declared in class 'mainSettings'
